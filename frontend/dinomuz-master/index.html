@@ -27,7 +27,25 @@
 		<link rel="stylesheet" href="css/magnific-popup.css">
 		<link rel="stylesheet" href="css/bootstrap.css">
 		<link rel="stylesheet" href="css/main.css">
-	</head>
+
+	<!-- Leaflet JS & CSS -->
+	<link
+	rel="stylesheet"
+	href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css"
+	integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
+	crossorigin=""
+	/>
+	<script
+	src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"
+	integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
+	crossorigin=""
+	></script>
+
+	<!-- d3 JavaScript -->
+	<script src="https://d3js.org/d3.v4.min.js"></script>
+
+	
+</head>
 	<body>
 		<div class="main-wrapper-first">
 			<header>
@@ -138,38 +156,39 @@
 					</div>
 					<div class="active-works-carousel mt-40">
 						<div class="item">
-							<div class="thumb" style="background: url(img/w1.jpg);"></div>
+							<div id="map_index" class="thumb"></div>
 							<div class="caption text-center">
 								<h6 class="text-uppercase">Vector Illustration</h6>
-								<p>LCD screens are uniquely modern in style, and the liquid crystals that make them work have allowed humanity to</p>
+								<p>Map 1</p>
+							</div>
+						</div>
+						<div class="item">
+							<div id="map1" class="thumb" style="background: url(img/w1.jpg);"></div>
+							
+							<div class="caption text-center">
+								<h6 class="text-uppercase">Map 1</h6>
+								<p>Employment</p>
 							</div>
 						</div>
 						<div class="item">
 							<div class="thumb" style="background: url(img/w1.jpg);"></div>
 							<div class="caption text-center">
 								<h6 class="text-uppercase">Vector Illustration</h6>
-								<p>LCD screens are uniquely modern in style, and the liquid crystals that make them work have allowed humanity to</p>
+								<p>Map 3</p>
 							</div>
 						</div>
 						<div class="item">
 							<div class="thumb" style="background: url(img/w1.jpg);"></div>
 							<div class="caption text-center">
 								<h6 class="text-uppercase">Vector Illustration</h6>
-								<p>LCD screens are uniquely modern in style, and the liquid crystals that make them work have allowed humanity to</p>
+								<p>Map 4</p>
 							</div>
 						</div>
 						<div class="item">
 							<div class="thumb" style="background: url(img/w1.jpg);"></div>
 							<div class="caption text-center">
 								<h6 class="text-uppercase">Vector Illustration</h6>
-								<p>LCD screens are uniquely modern in style, and the liquid crystals that make them work have allowed humanity to</p>
-							</div>
-						</div>
-						<div class="item">
-							<div class="thumb" style="background: url(img/w1.jpg);"></div>
-							<div class="caption text-center">
-								<h6 class="text-uppercase">Vector Illustration</h6>
-								<p>LCD screens are uniquely modern in style, and the liquid crystals that make them work have allowed humanity to</p>
+								<p>Map 5</p>
 							</div>
 						</div>
 					</div>
@@ -206,5 +225,11 @@
 		<script src="js/jquery.nice-select.min.js"></script>
 		<script src="js/jquery.magnific-popup.min.js"></script>
 		<script src="js/main.js"></script>
+
+		<script type="text/javascript" src="static/js/config.js"></script>
+		<!-- JS  -->
+
+		<script type="text/javascript" src="static/js/logic_map1.js"></script> -->
+		<script type="text/javascript" src="static/js/logic.js"></script>
 	</body>
 </html>

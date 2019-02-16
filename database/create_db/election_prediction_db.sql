@@ -96,6 +96,8 @@ CREATE TABLE fips (
     postal_code char(2)
 );
 
+#DROP TABLE district_demographic;
+
 CREATE TABLE district_demographic (
 	id INT primary key NOT NULL AUTO_INCREMENT,
     Total_population INT, Male INT, Female INT, Under_5_years INT, 5_to_9_years INT, 
@@ -134,7 +136,7 @@ CREATE TABLE district_demographic (
 	Production__transportation__and_material_moving_occupations INT, 
 	Agriculture__forestry__fishing_and_hunting__and_mining INT, Construction1 INT, 
 	Manufacturing1 INT, Wholesale_trade1 INT, Retail_trade1 INT, 
-	Transportation_and_warehousing__and_utilities INT, Information1 INT, 
+	Transportation_and_warehousing__and_utilities1 INT, Information1 INT, 
 	Finance_and_insurance__and_real_estate_and_rental_and_leasing INT, 
 	Prof__scientific__and_mngmnt__and_admin_and_waste_mngmnt_ser INT, 
 	Educational_services__and_health_care_and_social_assistance INT, 

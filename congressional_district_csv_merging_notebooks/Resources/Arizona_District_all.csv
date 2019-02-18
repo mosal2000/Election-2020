@@ -258,7 +258,7 @@ Topic,Subject,Title,District 01 Estimate,District 01 Flag,District 02 Estimate,D
 Business,Paid employees for pay period including March 12,Total for all sectors,166416,G,217943,G,165199,G,141929,G,187758,G,379927,G,387001,G,152527,G,475935,G
 Business,Paid employees for pay period including March 12,"Agriculture, forestry, fishing and hunting",334,G,189,H,336,H,337,G,67,H,129,H,45,J,23,J,61,H
 Business,Paid employees for pay period including March 12,"Mining, quarrying, and oil and gas extraction",6779,H,1465,H,889,J,1259,H,102,H,244,H,95,H,143,G,96,H
-Business,Paid employees for pay period including March 12,Utilities,1712,J,733,G,2013,H,940,H,35,J,1694,H,h,D,169,J,f,D
+Business,Paid employees for pay period including March 12,Utilities,1712,J,733,G,2013,H,940,H,35,J,1694,H,,D,169,J,,D
 Business,Paid employees for pay period including March 12,Construction,6939,G,10436,G,11188,G,9996,G,15680,G,25808,G,26528,G,9606,G,25341,G
 Business,Paid employees for pay period including March 12,Manufacturing,15573,H,5877,G,16288,H,9492,G,13840,H,13116,G,38328,G,4606,G,27088,G
 Business,Paid employees for pay period including March 12,Wholesale trade,3370,G,3037,G,8136,G,4338,G,4308,G,10273,G,34390,G,2646,G,21485,G
@@ -279,7 +279,7 @@ Business,Paid employees for pay period including March 12,Industries not classif
 Business,"Annual payroll ($1,000)",Total for all sectors,6415346,G,7971798,G,6620802,G,4689523,G,7590440,G,19555511,G,19479408,G,5319119,G,24709778,G
 Business,"Annual payroll ($1,000)","Agriculture, forestry, fishing and hunting",13522,G,5076,H,13590,H,14007,G,2268,H,5528,G,1432,J,618,G,2652,H
 Business,"Annual payroll ($1,000)","Mining, quarrying, and oil and gas extraction",538586,H,80416,G,52040,J,72344,H,6394,H,23607,G,5290,G,6679,G,3826,G
-Business,"Annual payroll ($1,000)",Utilities,153256,J,52546,G,178765,J,70175,H,1963,J,195631,H,D,D,13397,J,D,D
+Business,"Annual payroll ($1,000)",Utilities,153256,J,52546,G,178765,J,70175,H,1963,J,195631,H,,D,13397,J,,D
 Business,"Annual payroll ($1,000)",Construction,290695,G,490277,G,465922,G,378984,G,707047,G,1484974,G,1380146,G,435939,G,1424799,G
 Business,"Annual payroll ($1,000)",Manufacturing,1088228,H,349925,H,1308969,H,364396,G,967668,H,863865,G,1985874,G,234107,G,1589247,G
 Business,"Annual payroll ($1,000)",Wholesale trade,155325,G,153233,G,424873,G,205910,G,324033,G,740318,G,1986049,G,134255,G,1700972,G

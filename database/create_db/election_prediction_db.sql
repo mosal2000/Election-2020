@@ -192,7 +192,7 @@ CREATE TABLE district_demographic (
 	Associate_s_degree INT, Bachelor_s_degree INT, 
 	Graduate_or_professional_degree INT, 
 	Percent_high_school_graduate_or_higher FLOAT, 
-	Percent_bachelor_s_degree_or_higher FLOAT, Title INT, Total_for_all_sectors1 INT, 
+	Percent_bachelor_s_degree_or_higher FLOAT, Title VARCHAR(100), Total_for_all_sectors1 INT, 
 	Agriculture__forestry__fishing_and_hunting1 INT, 
 	Mining__quarrying__and_oil_and_gas_extraction1 INT, Utilities1 INT, 
 	Construction2 INT, Manufacturing2 INT, Wholesale_trade2 INT, Retail_trade2 INT, 

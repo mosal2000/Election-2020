@@ -1,0 +1,32 @@
+
+.jumbotron {
+    background-color: white;
+}
+
+.navstyle {
+    background-color: white;
+}
+
+.background {
+    background-color: rgb(231, 228, 228);
+}
+
+@media (max-width: 767px) {
+	.navbar-brand {
+        background-color:rgb(35, 202, 197);
+    }
+    a.navbar-brand {
+        background-color: white;
+    }   
+    .navstyle { 
+        background-color:rgb(35, 202, 197);
+    }
+
+    .navbar { 
+        background-color:rgb(35, 202, 197);
+    }
+
+    .h2 {
+        font-size: 20px; 
+    }
+}

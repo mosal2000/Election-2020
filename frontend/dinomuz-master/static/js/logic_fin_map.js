@@ -1,6 +1,6 @@
 var fin_map = L.map('fin_map', {
   center: [39.8283, -98.5795],
-  zoom: 5
+  zoom: 4
 });
 
 // Adding tile layer

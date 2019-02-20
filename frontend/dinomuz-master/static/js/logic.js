@@ -1,6 +1,6 @@
 var map_index = L.map('map_index', {
   center: [39.8283, -98.5795],
-  zoom: 4
+  zoom: 5
 });
 
 // Adding tile layer
@@ -20,12 +20,12 @@ var oise = 'cb_2017_us_cd115_20m.json';
 var results_file = '116th_us_congress_list.json';
 
 function complete(district_data) {
-  function getColor(d) {
-    return d == 'REP'
+  function getColor(d1) {
+    return d1 == 'REP'
       ? '#800026'
-      : d == 'DEM'
+      : d1 == 'DEM'
       ? '#0000ff'
-      : d == 'DFL'
+      : d1 == 'DFL'
       ? '#0000ff'
       : '#000000';
   }
@@ -65,7 +65,7 @@ function complete(district_data) {
     shape_files = data_shape;
     console.log(shape_files);
 
-    var shape_file_Layer = new L.geoJson(shape_files, {
+    var shape_file_Layer1 = new L.geoJson(shape_files, {
       style: function(feature) {
         return {
           weight: 1,

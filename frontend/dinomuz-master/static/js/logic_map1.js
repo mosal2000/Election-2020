@@ -1,6 +1,6 @@
 var map1 = L.map('map1', {
   center: [39.8283, -98.5795],
-  zoom: 4
+  zoom: 5
 });
 
 // Adding tile layer
@@ -78,12 +78,12 @@ function complete(district_data) {
   //    (STATEFP_CD115FP[data[i].CD115FP] = data[i].district);
   //  }
 
-  var jqxhr = $.getJSON(oise, function(data_shape) {
+  var jqxhr2 = $.getJSON(oise, function(data_shape) {
     console.log('success shape_file');
     shape_files = data_shape;
     console.log(shape_files);
 
-  var shape_file_Layer = new L.geoJson(shape_files, {
+  var shape_file_Layer2 = new L.geoJson(shape_files, {
     style: function(feature) {
       
       return {
@@ -160,7 +160,7 @@ function complete(district_data) {
     });
 }
 
-var jqxhr1 = $.getJSON(results_file, function(district_data_orig) {
+var jqxhr3 = $.getJSON(results_file, function(district_data_orig) {
   console.log('success district_data');
   // console.log(district_data_orig);
 

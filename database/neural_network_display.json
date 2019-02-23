@@ -15,7 +15,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.207074,
 		"Restr_Probability_of_REP_r" : 0.792926,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "AL",
@@ -33,7 +33,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00198699,
 		"Restr_Probability_of_REP_r" : 0.998013,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "AL",
@@ -51,7 +51,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.000285002,
 		"Restr_Probability_of_REP_r" : 0.999715,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "AL",
@@ -69,7 +69,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0000619819,
 		"Restr_Probability_of_REP_r" : 0.999938,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "AL",
@@ -87,7 +87,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0000103021,
 		"Restr_Probability_of_REP_r" : 0.99999,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "AL",
@@ -105,7 +105,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.000184081,
 		"Restr_Probability_of_REP_r" : 0.999816,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "AL",
@@ -123,7 +123,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00448434,
 		"Restr_Probability_of_REP_r" : 0.995516,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "AL",
@@ -141,7 +141,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.998994,
 		"Restr_Probability_of_REP_r" : 0.00100567,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "AR",
@@ -159,7 +159,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.000625818,
 		"Restr_Probability_of_REP_r" : 0.999374,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "AR",
@@ -177,7 +177,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00464574,
 		"Restr_Probability_of_REP_r" : 0.995354,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "AR",
@@ -195,7 +195,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00377018,
 		"Restr_Probability_of_REP_r" : 0.99623,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "AR",
@@ -213,7 +213,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00305288,
 		"Restr_Probability_of_REP_r" : 0.996947,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "AZ",
@@ -231,7 +231,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.121434,
 		"Restr_Probability_of_REP_r" : 0.878566,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "AZ",
@@ -249,7 +249,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.967988,
 		"Restr_Probability_of_REP_r" : 0.0320116,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "AZ",
@@ -267,7 +267,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999825,
 		"Restr_Probability_of_REP_r" : 0.000175293,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "AZ",
@@ -285,7 +285,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00046659,
 		"Restr_Probability_of_REP_r" : 0.999533,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "AZ",
@@ -303,7 +303,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0118992,
 		"Restr_Probability_of_REP_r" : 0.988101,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "AZ",
@@ -321,7 +321,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0967728,
 		"Restr_Probability_of_REP_r" : 0.903227,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "AZ",
@@ -339,7 +339,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999913,
 		"Restr_Probability_of_REP_r" : 0.0000872062,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "AZ",
@@ -357,7 +357,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0328319,
 		"Restr_Probability_of_REP_r" : 0.967168,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "AZ",
@@ -375,7 +375,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.998747,
 		"Restr_Probability_of_REP_r" : 0.00125351,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -393,7 +393,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0225764,
 		"Restr_Probability_of_REP_r" : 0.977424,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -411,7 +411,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.988032,
 		"Restr_Probability_of_REP_r" : 0.011968,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -429,7 +429,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999697,
 		"Restr_Probability_of_REP_r" : 0.000303357,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -447,7 +447,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 1,
 		"Restr_Probability_of_REP_r" : 0.0000000339634,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -465,7 +465,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 1,
 		"Restr_Probability_of_REP_r" : 0.000000211425,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -483,7 +483,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999998,
 		"Restr_Probability_of_REP_r" : 0.00000213302,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -501,7 +501,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999983,
 		"Restr_Probability_of_REP_r" : 0.0000166505,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -519,7 +519,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999993,
 		"Restr_Probability_of_REP_r" : 0.00000675409,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -537,7 +537,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 1,
 		"Restr_Probability_of_REP_r" : 0.0000000499341,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -555,7 +555,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999999,
 		"Restr_Probability_of_REP_r" : 0.000000564803,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -573,7 +573,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999996,
 		"Restr_Probability_of_REP_r" : 0.00000438336,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -591,7 +591,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.993527,
 		"Restr_Probability_of_REP_r" : 0.00647349,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -609,7 +609,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999699,
 		"Restr_Probability_of_REP_r" : 0.000300746,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -627,7 +627,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.990565,
 		"Restr_Probability_of_REP_r" : 0.00943464,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -645,7 +645,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.998847,
 		"Restr_Probability_of_REP_r" : 0.00115333,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -663,7 +663,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0240451,
 		"Restr_Probability_of_REP_r" : 0.975955,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -681,7 +681,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.99757,
 		"Restr_Probability_of_REP_r" : 0.00242955,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -699,7 +699,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.965059,
 		"Restr_Probability_of_REP_r" : 0.0349406,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -717,7 +717,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.906083,
 		"Restr_Probability_of_REP_r" : 0.0939168,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -735,7 +735,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999999,
 		"Restr_Probability_of_REP_r" : 0.000000918098,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -753,7 +753,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999998,
 		"Restr_Probability_of_REP_r" : 0.00000214557,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -771,7 +771,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999995,
 		"Restr_Probability_of_REP_r" : 0.00000460573,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -789,7 +789,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.996485,
 		"Restr_Probability_of_REP_r" : 0.0035145,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -807,7 +807,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999817,
 		"Restr_Probability_of_REP_r" : 0.000183062,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -825,7 +825,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999986,
 		"Restr_Probability_of_REP_r" : 0.0000144269,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -843,7 +843,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 1,
 		"Restr_Probability_of_REP_r" : 0.00000025514,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -861,7 +861,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999902,
 		"Restr_Probability_of_REP_r" : 0.0000983412,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -879,7 +879,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 1,
 		"Restr_Probability_of_REP_r" : 0.0000000168464,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -897,7 +897,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 1,
 		"Restr_Probability_of_REP_r" : 0.000000426225,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -915,7 +915,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.998147,
 		"Restr_Probability_of_REP_r" : 0.00185334,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -933,7 +933,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 1,
 		"Restr_Probability_of_REP_r" : 0.00000015531,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -951,7 +951,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999999,
 		"Restr_Probability_of_REP_r" : 0.000000902575,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -969,7 +969,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999963,
 		"Restr_Probability_of_REP_r" : 0.0000366409,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -987,7 +987,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.208793,
 		"Restr_Probability_of_REP_r" : 0.791207,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -1005,7 +1005,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999999,
 		"Restr_Probability_of_REP_r" : 0.00000071307,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -1023,7 +1023,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 1,
 		"Restr_Probability_of_REP_r" : 0.000000140731,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -1041,7 +1041,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.920845,
 		"Restr_Probability_of_REP_r" : 0.0791554,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -1059,7 +1059,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 1,
 		"Restr_Probability_of_REP_r" : 0.000000366018,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -1077,7 +1077,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 1,
 		"Restr_Probability_of_REP_r" : 0.000000151441,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -1095,7 +1095,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.99969,
 		"Restr_Probability_of_REP_r" : 0.000310447,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -1113,7 +1113,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999993,
 		"Restr_Probability_of_REP_r" : 0.00000692089,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -1131,7 +1131,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999956,
 		"Restr_Probability_of_REP_r" : 0.0000435145,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -1149,7 +1149,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.992675,
 		"Restr_Probability_of_REP_r" : 0.00732456,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -1167,7 +1167,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.995179,
 		"Restr_Probability_of_REP_r" : 0.00482147,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -1185,7 +1185,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.99966,
 		"Restr_Probability_of_REP_r" : 0.00034024,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -1203,7 +1203,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0697194,
 		"Restr_Probability_of_REP_r" : 0.930281,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -1221,7 +1221,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999995,
 		"Restr_Probability_of_REP_r" : 0.00000510873,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -1239,7 +1239,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999997,
 		"Restr_Probability_of_REP_r" : 0.00000324022,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -1257,7 +1257,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999971,
 		"Restr_Probability_of_REP_r" : 0.0000290547,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -1275,7 +1275,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 1,
 		"Restr_Probability_of_REP_r" : 0.000000340268,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -1293,7 +1293,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.997452,
 		"Restr_Probability_of_REP_r" : 0.0025476,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -1311,7 +1311,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.989929,
 		"Restr_Probability_of_REP_r" : 0.0100708,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "CA",
@@ -1329,7 +1329,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999665,
 		"Restr_Probability_of_REP_r" : 0.000334715,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CO",
@@ -1347,7 +1347,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999966,
 		"Restr_Probability_of_REP_r" : 0.0000338549,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CO",
@@ -1365,7 +1365,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.998752,
 		"Restr_Probability_of_REP_r" : 0.00124773,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CO",
@@ -1383,7 +1383,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00565255,
 		"Restr_Probability_of_REP_r" : 0.994347,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "CO",
@@ -1401,7 +1401,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00565693,
 		"Restr_Probability_of_REP_r" : 0.994343,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "CO",
@@ -1419,7 +1419,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.719733,
 		"Restr_Probability_of_REP_r" : 0.280267,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "CO",
@@ -1437,7 +1437,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.996354,
 		"Restr_Probability_of_REP_r" : 0.00364636,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CO",
@@ -1455,7 +1455,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.962409,
 		"Restr_Probability_of_REP_r" : 0.0375907,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CT",
@@ -1473,7 +1473,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.995778,
 		"Restr_Probability_of_REP_r" : 0.0042217,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CT",
@@ -1491,7 +1491,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.989773,
 		"Restr_Probability_of_REP_r" : 0.0102273,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CT",
@@ -1509,7 +1509,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.995329,
 		"Restr_Probability_of_REP_r" : 0.0046707,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CT",
@@ -1527,7 +1527,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999976,
 		"Restr_Probability_of_REP_r" : 0.0000240286,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "CT",
@@ -1545,7 +1545,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.993784,
 		"Restr_Probability_of_REP_r" : 0.00621595,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "DE",
@@ -1563,7 +1563,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0068403,
 		"Restr_Probability_of_REP_r" : 0.99316,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "FL",
@@ -1581,7 +1581,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0132888,
 		"Restr_Probability_of_REP_r" : 0.986711,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "FL",
@@ -1599,7 +1599,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.99962,
 		"Restr_Probability_of_REP_r" : 0.000380126,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "FL",
@@ -1617,7 +1617,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.000711074,
 		"Restr_Probability_of_REP_r" : 0.999289,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "FL",
@@ -1635,7 +1635,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00310603,
 		"Restr_Probability_of_REP_r" : 0.996894,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "FL",
@@ -1653,7 +1653,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.551051,
 		"Restr_Probability_of_REP_r" : 0.448949,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "FL",
@@ -1671,7 +1671,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.994852,
 		"Restr_Probability_of_REP_r" : 0.00514752,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "FL",
@@ -1689,7 +1689,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0176874,
 		"Restr_Probability_of_REP_r" : 0.982313,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "FL",
@@ -1707,7 +1707,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00780967,
 		"Restr_Probability_of_REP_r" : 0.99219,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "FL",
@@ -1725,7 +1725,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.000106415,
 		"Restr_Probability_of_REP_r" : 0.999894,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "FL",
@@ -1743,7 +1743,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0346561,
 		"Restr_Probability_of_REP_r" : 0.965344,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "FL",
@@ -1761,7 +1761,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0157778,
 		"Restr_Probability_of_REP_r" : 0.984222,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "FL",
@@ -1779,7 +1779,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.000144813,
 		"Restr_Probability_of_REP_r" : 0.999855,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "FL",
@@ -1797,7 +1797,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.997738,
 		"Restr_Probability_of_REP_r" : 0.00226157,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "FL",
@@ -1815,7 +1815,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.94307,
 		"Restr_Probability_of_REP_r" : 0.0569299,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "FL",
@@ -1833,7 +1833,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.977622,
 		"Restr_Probability_of_REP_r" : 0.0223777,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "FL",
@@ -1851,7 +1851,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.986748,
 		"Restr_Probability_of_REP_r" : 0.0132521,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "FL",
@@ -1869,7 +1869,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999823,
 		"Restr_Probability_of_REP_r" : 0.000177171,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "FL",
@@ -1887,7 +1887,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0945174,
 		"Restr_Probability_of_REP_r" : 0.905483,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "FL",
@@ -1905,7 +1905,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.97419,
 		"Restr_Probability_of_REP_r" : 0.0258102,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "FL",
@@ -1923,7 +1923,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999807,
 		"Restr_Probability_of_REP_r" : 0.000193257,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "FL",
@@ -1941,7 +1941,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00395102,
 		"Restr_Probability_of_REP_r" : 0.996049,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "FL",
@@ -1959,7 +1959,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.016531,
 		"Restr_Probability_of_REP_r" : 0.983469,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "FL",
@@ -1977,7 +1977,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999712,
 		"Restr_Probability_of_REP_r" : 0.000287898,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "FL",
@@ -1995,7 +1995,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0011447,
 		"Restr_Probability_of_REP_r" : 0.998855,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "FL",
@@ -2013,7 +2013,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.95272,
 		"Restr_Probability_of_REP_r" : 0.0472797,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "FL",
@@ -2031,7 +2031,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00937379,
 		"Restr_Probability_of_REP_r" : 0.990626,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "FL",
@@ -2049,7 +2049,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.995713,
 		"Restr_Probability_of_REP_r" : 0.00428751,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "GA",
@@ -2067,7 +2067,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0266438,
 		"Restr_Probability_of_REP_r" : 0.973356,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "GA",
@@ -2085,7 +2085,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.000138038,
 		"Restr_Probability_of_REP_r" : 0.999862,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "GA",
@@ -2103,7 +2103,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.232577,
 		"Restr_Probability_of_REP_r" : 0.767423,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "GA",
@@ -2121,7 +2121,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.860855,
 		"Restr_Probability_of_REP_r" : 0.139145,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "GA",
@@ -2139,7 +2139,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.998298,
 		"Restr_Probability_of_REP_r" : 0.00170217,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "GA",
@@ -2157,7 +2157,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00000802222,
 		"Restr_Probability_of_REP_r" : 0.999992,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "GA",
@@ -2175,7 +2175,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999286,
 		"Restr_Probability_of_REP_r" : 0.000713612,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "GA",
@@ -2193,7 +2193,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.000170828,
 		"Restr_Probability_of_REP_r" : 0.999829,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "GA",
@@ -2211,7 +2211,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999067,
 		"Restr_Probability_of_REP_r" : 0.000932844,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "GA",
@@ -2229,7 +2229,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999994,
 		"Restr_Probability_of_REP_r" : 0.00000614154,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "GA",
@@ -2247,7 +2247,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.99274,
 		"Restr_Probability_of_REP_r" : 0.00725987,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "GA",
@@ -2265,7 +2265,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0433337,
 		"Restr_Probability_of_REP_r" : 0.956666,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "GA",
@@ -2283,7 +2283,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00790569,
 		"Restr_Probability_of_REP_r" : 0.992094,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "GA",
@@ -2301,7 +2301,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.000100918,
 		"Restr_Probability_of_REP_r" : 0.999899,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "HI",
@@ -2319,7 +2319,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 1,
 		"Restr_Probability_of_REP_r" : 0.000000359317,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "HI",
@@ -2337,7 +2337,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999878,
 		"Restr_Probability_of_REP_r" : 0.000122068,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "IA",
@@ -2355,7 +2355,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.904779,
 		"Restr_Probability_of_REP_r" : 0.0952206,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "IA",
@@ -2373,7 +2373,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.84514,
 		"Restr_Probability_of_REP_r" : 0.15486,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "IA",
@@ -2391,7 +2391,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.907402,
 		"Restr_Probability_of_REP_r" : 0.0925985,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "IA",
@@ -2409,7 +2409,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.653507,
 		"Restr_Probability_of_REP_r" : 0.346493,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "ID",
@@ -2427,7 +2427,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00276728,
 		"Restr_Probability_of_REP_r" : 0.997233,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "ID",
@@ -2445,7 +2445,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0028078,
 		"Restr_Probability_of_REP_r" : 0.997192,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "IL",
@@ -2463,7 +2463,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999912,
 		"Restr_Probability_of_REP_r" : 0.0000883402,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "IL",
@@ -2481,7 +2481,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.998747,
 		"Restr_Probability_of_REP_r" : 0.00125254,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "IL",
@@ -2499,7 +2499,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.897976,
 		"Restr_Probability_of_REP_r" : 0.102024,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "IL",
@@ -2517,7 +2517,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.704076,
 		"Restr_Probability_of_REP_r" : 0.295924,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "IL",
@@ -2535,7 +2535,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0857607,
 		"Restr_Probability_of_REP_r" : 0.914239,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "IL",
@@ -2553,7 +2553,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.830334,
 		"Restr_Probability_of_REP_r" : 0.169665,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "IL",
@@ -2571,7 +2571,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0157199,
 		"Restr_Probability_of_REP_r" : 0.98428,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "IL",
@@ -2589,7 +2589,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.625802,
 		"Restr_Probability_of_REP_r" : 0.374198,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "IL",
@@ -2607,7 +2607,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.987916,
 		"Restr_Probability_of_REP_r" : 0.0120839,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "IL",
@@ -2625,7 +2625,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0476949,
 		"Restr_Probability_of_REP_r" : 0.952305,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "IL",
@@ -2643,7 +2643,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999997,
 		"Restr_Probability_of_REP_r" : 0.00000282996,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "IL",
@@ -2661,7 +2661,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.965464,
 		"Restr_Probability_of_REP_r" : 0.0345364,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "IL",
@@ -2679,7 +2679,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999985,
 		"Restr_Probability_of_REP_r" : 0.0000148507,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "IL",
@@ -2697,7 +2697,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.994502,
 		"Restr_Probability_of_REP_r" : 0.00549776,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "IL",
@@ -2715,7 +2715,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.993725,
 		"Restr_Probability_of_REP_r" : 0.00627468,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "IL",
@@ -2733,7 +2733,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.99999,
 		"Restr_Probability_of_REP_r" : 0.0000103532,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "IL",
@@ -2751,7 +2751,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.954223,
 		"Restr_Probability_of_REP_r" : 0.0457772,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "IL",
@@ -2769,7 +2769,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.995264,
 		"Restr_Probability_of_REP_r" : 0.00473571,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "IN",
@@ -2787,7 +2787,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.944826,
 		"Restr_Probability_of_REP_r" : 0.0551736,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "IN",
@@ -2805,7 +2805,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0169187,
 		"Restr_Probability_of_REP_r" : 0.983081,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "IN",
@@ -2823,7 +2823,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00372755,
 		"Restr_Probability_of_REP_r" : 0.996272,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "IN",
@@ -2841,7 +2841,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.000352142,
 		"Restr_Probability_of_REP_r" : 0.999648,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "IN",
@@ -2859,7 +2859,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00995752,
 		"Restr_Probability_of_REP_r" : 0.990042,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "IN",
@@ -2877,7 +2877,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.000321249,
 		"Restr_Probability_of_REP_r" : 0.999679,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "IN",
@@ -2895,7 +2895,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.989628,
 		"Restr_Probability_of_REP_r" : 0.010372,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "IN",
@@ -2913,7 +2913,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0175342,
 		"Restr_Probability_of_REP_r" : 0.982466,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "IN",
@@ -2931,7 +2931,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00099025,
 		"Restr_Probability_of_REP_r" : 0.99901,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "KS",
@@ -2949,7 +2949,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0130161,
 		"Restr_Probability_of_REP_r" : 0.986984,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "KS",
@@ -2967,7 +2967,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.121332,
 		"Restr_Probability_of_REP_r" : 0.878668,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "KS",
@@ -2985,7 +2985,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.962255,
 		"Restr_Probability_of_REP_r" : 0.0377449,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "KS",
@@ -3003,7 +3003,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.133673,
 		"Restr_Probability_of_REP_r" : 0.866327,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "KY",
@@ -3021,7 +3021,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0000248138,
 		"Restr_Probability_of_REP_r" : 0.999975,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "KY",
@@ -3039,7 +3039,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0000096504,
 		"Restr_Probability_of_REP_r" : 0.99999,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "KY",
@@ -3057,7 +3057,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.544496,
 		"Restr_Probability_of_REP_r" : 0.455504,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "KY",
@@ -3075,7 +3075,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.000566481,
 		"Restr_Probability_of_REP_r" : 0.999433,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "KY",
@@ -3093,7 +3093,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00000273921,
 		"Restr_Probability_of_REP_r" : 0.999997,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "KY",
@@ -3111,7 +3111,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.000520117,
 		"Restr_Probability_of_REP_r" : 0.99948,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "LA",
@@ -3129,7 +3129,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00916745,
 		"Restr_Probability_of_REP_r" : 0.990833,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "LA",
@@ -3147,7 +3147,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999974,
 		"Restr_Probability_of_REP_r" : 0.0000261897,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "LA",
@@ -3165,7 +3165,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0150328,
 		"Restr_Probability_of_REP_r" : 0.984967,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "LA",
@@ -3183,7 +3183,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00107536,
 		"Restr_Probability_of_REP_r" : 0.998925,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "LA",
@@ -3201,7 +3201,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00252905,
 		"Restr_Probability_of_REP_r" : 0.997471,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "LA",
@@ -3219,7 +3219,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00046557,
 		"Restr_Probability_of_REP_r" : 0.999534,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "MA",
@@ -3237,7 +3237,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.931455,
 		"Restr_Probability_of_REP_r" : 0.0685448,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "MA",
@@ -3255,7 +3255,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.983443,
 		"Restr_Probability_of_REP_r" : 0.016557,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "MA",
@@ -3273,7 +3273,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.995555,
 		"Restr_Probability_of_REP_r" : 0.00444504,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "MA",
@@ -3291,7 +3291,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999872,
 		"Restr_Probability_of_REP_r" : 0.000127799,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "MA",
@@ -3309,7 +3309,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999991,
 		"Restr_Probability_of_REP_r" : 0.00000874026,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "MA",
@@ -3327,7 +3327,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.996548,
 		"Restr_Probability_of_REP_r" : 0.00345183,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "MA",
@@ -3345,7 +3345,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999999,
 		"Restr_Probability_of_REP_r" : 0.00000118433,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "MA",
@@ -3363,7 +3363,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999524,
 		"Restr_Probability_of_REP_r" : 0.000475584,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "MA",
@@ -3381,7 +3381,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.993216,
 		"Restr_Probability_of_REP_r" : 0.00678438,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "MD",
@@ -3399,7 +3399,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0624401,
 		"Restr_Probability_of_REP_r" : 0.93756,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "MD",
@@ -3417,7 +3417,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.988974,
 		"Restr_Probability_of_REP_r" : 0.0110257,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "MD",
@@ -3435,7 +3435,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999548,
 		"Restr_Probability_of_REP_r" : 0.000451907,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "MD",
@@ -3453,7 +3453,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999954,
 		"Restr_Probability_of_REP_r" : 0.0000463169,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "MD",
@@ -3471,7 +3471,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.94668,
 		"Restr_Probability_of_REP_r" : 0.0533195,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "MD",
@@ -3489,7 +3489,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.986571,
 		"Restr_Probability_of_REP_r" : 0.013429,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "MD",
@@ -3507,7 +3507,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999322,
 		"Restr_Probability_of_REP_r" : 0.000678217,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "MD",
@@ -3525,7 +3525,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999968,
 		"Restr_Probability_of_REP_r" : 0.0000318879,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "ME",
@@ -3543,7 +3543,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.991252,
 		"Restr_Probability_of_REP_r" : 0.00874829,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "ME",
@@ -3561,7 +3561,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.962859,
 		"Restr_Probability_of_REP_r" : 0.0371413,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "MI",
@@ -3579,7 +3579,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0142605,
 		"Restr_Probability_of_REP_r" : 0.985739,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "MI",
@@ -3597,7 +3597,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0247688,
 		"Restr_Probability_of_REP_r" : 0.975231,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "MI",
@@ -3615,7 +3615,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.917041,
 		"Restr_Probability_of_REP_r" : 0.0829591,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "MI",
@@ -3633,7 +3633,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999997,
 		"Restr_Probability_of_REP_r" : 0.00000285822,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "MI",
@@ -3651,7 +3651,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 1,
 		"Restr_Probability_of_REP_r" : 0.0000000000164372,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "MI",
@@ -3669,7 +3669,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 1,
 		"Restr_Probability_of_REP_r" : 0.0000000603518,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "MI",
@@ -3687,7 +3687,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0555376,
 		"Restr_Probability_of_REP_r" : 0.944462,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "MI",
@@ -3705,7 +3705,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0637058,
 		"Restr_Probability_of_REP_r" : 0.936294,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "MI",
@@ -3723,7 +3723,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00297319,
 		"Restr_Probability_of_REP_r" : 0.997027,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "MI",
@@ -3741,7 +3741,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999894,
 		"Restr_Probability_of_REP_r" : 0.000106181,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "MI",
@@ -3759,7 +3759,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.035897,
 		"Restr_Probability_of_REP_r" : 0.964103,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "MI",
@@ -3777,7 +3777,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0121298,
 		"Restr_Probability_of_REP_r" : 0.98787,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "MI",
@@ -3795,7 +3795,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.913887,
 		"Restr_Probability_of_REP_r" : 0.0861127,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "MI",
@@ -3813,7 +3813,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.997448,
 		"Restr_Probability_of_REP_r" : 0.00255199,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "MN",
@@ -3831,7 +3831,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.157448,
 		"Restr_Probability_of_REP_r" : 0.842552,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "MN",
@@ -3849,7 +3849,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.239438,
 		"Restr_Probability_of_REP_r" : 0.760562,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "MN",
@@ -3867,7 +3867,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.550786,
 		"Restr_Probability_of_REP_r" : 0.449214,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "MN",
@@ -3885,7 +3885,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.974798,
 		"Restr_Probability_of_REP_r" : 0.0252016,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "MN",
@@ -3903,7 +3903,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.998034,
 		"Restr_Probability_of_REP_r" : 0.00196566,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "MN",
@@ -3921,7 +3921,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00243526,
 		"Restr_Probability_of_REP_r" : 0.997565,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "MN",
@@ -3939,7 +3939,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.731161,
 		"Restr_Probability_of_REP_r" : 0.268839,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "MN",
@@ -3957,7 +3957,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.011351,
 		"Restr_Probability_of_REP_r" : 0.988649,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "MO",
@@ -3975,7 +3975,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999353,
 		"Restr_Probability_of_REP_r" : 0.000646996,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "MO",
@@ -3993,7 +3993,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.360655,
 		"Restr_Probability_of_REP_r" : 0.639345,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "MO",
@@ -4011,7 +4011,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00129552,
 		"Restr_Probability_of_REP_r" : 0.998704,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "MO",
@@ -4029,7 +4029,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00055874,
 		"Restr_Probability_of_REP_r" : 0.999441,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "MO",
@@ -4047,7 +4047,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.912386,
 		"Restr_Probability_of_REP_r" : 0.0876143,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "MO",
@@ -4065,7 +4065,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00426011,
 		"Restr_Probability_of_REP_r" : 0.99574,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "MO",
@@ -4083,7 +4083,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00389235,
 		"Restr_Probability_of_REP_r" : 0.996108,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "MO",
@@ -4101,7 +4101,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.000084653,
 		"Restr_Probability_of_REP_r" : 0.999915,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "MS",
@@ -4119,7 +4119,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.000243955,
 		"Restr_Probability_of_REP_r" : 0.999756,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "MS",
@@ -4137,7 +4137,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999959,
 		"Restr_Probability_of_REP_r" : 0.0000405491,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "MS",
@@ -4155,7 +4155,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0000367429,
 		"Restr_Probability_of_REP_r" : 0.999963,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "MS",
@@ -4173,7 +4173,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0000877202,
 		"Restr_Probability_of_REP_r" : 0.999912,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "MT",
@@ -4191,7 +4191,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0151567,
 		"Restr_Probability_of_REP_r" : 0.984843,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "NC",
@@ -4209,7 +4209,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.959433,
 		"Restr_Probability_of_REP_r" : 0.0405667,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NC",
@@ -4227,7 +4227,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0000513538,
 		"Restr_Probability_of_REP_r" : 0.999949,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "NC",
@@ -4245,7 +4245,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00000196802,
 		"Restr_Probability_of_REP_r" : 0.999998,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "NC",
@@ -4263,7 +4263,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.998851,
 		"Restr_Probability_of_REP_r" : 0.001149,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NC",
@@ -4281,7 +4281,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00165379,
 		"Restr_Probability_of_REP_r" : 0.998346,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "NC",
@@ -4299,7 +4299,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00613287,
 		"Restr_Probability_of_REP_r" : 0.993867,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "NC",
@@ -4317,7 +4317,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.005497,
 		"Restr_Probability_of_REP_r" : 0.994503,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "NC",
@@ -4335,7 +4335,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.987124,
 		"Restr_Probability_of_REP_r" : 0.0128761,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NC",
@@ -4353,7 +4353,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.000046503,
 		"Restr_Probability_of_REP_r" : 0.999954,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "NC",
@@ -4371,7 +4371,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00412038,
 		"Restr_Probability_of_REP_r" : 0.99588,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "NC",
@@ -4389,7 +4389,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.000341748,
 		"Restr_Probability_of_REP_r" : 0.999658,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "NC",
@@ -4407,7 +4407,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0128164,
 		"Restr_Probability_of_REP_r" : 0.987184,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "NC",
@@ -4425,7 +4425,7 @@
 		"Restr_Predicted_Party_r" : null,
 		"Restr_Probability_of_DEM_r" : null,
 		"Restr_Probability_of_REP_r" : null,
-		"Restr_Probability_of_REP_r" : null
+		"Restr_Actual_Winning_Party" : null
 	},
 	{
 		"st_abbrev" : "ND",
@@ -4443,7 +4443,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00834365,
 		"Restr_Probability_of_REP_r" : 0.991656,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "NE",
@@ -4461,7 +4461,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0322702,
 		"Restr_Probability_of_REP_r" : 0.96773,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "NE",
@@ -4479,7 +4479,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0360233,
 		"Restr_Probability_of_REP_r" : 0.963977,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "NE",
@@ -4497,7 +4497,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0734807,
 		"Restr_Probability_of_REP_r" : 0.926519,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "NH",
@@ -4515,7 +4515,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.987371,
 		"Restr_Probability_of_REP_r" : 0.0126285,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NH",
@@ -4533,7 +4533,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.984811,
 		"Restr_Probability_of_REP_r" : 0.015189,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NJ",
@@ -4551,7 +4551,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.957203,
 		"Restr_Probability_of_REP_r" : 0.0427972,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NJ",
@@ -4569,7 +4569,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999998,
 		"Restr_Probability_of_REP_r" : 0.00000213479,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NJ",
@@ -4587,7 +4587,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.998956,
 		"Restr_Probability_of_REP_r" : 0.00104431,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NJ",
@@ -4605,7 +4605,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.991961,
 		"Restr_Probability_of_REP_r" : 0.00803907,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NJ",
@@ -4623,7 +4623,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.955439,
 		"Restr_Probability_of_REP_r" : 0.0445613,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NJ",
@@ -4641,7 +4641,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0672142,
 		"Restr_Probability_of_REP_r" : 0.932786,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NJ",
@@ -4659,7 +4659,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0224494,
 		"Restr_Probability_of_REP_r" : 0.977551,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "NJ",
@@ -4677,7 +4677,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.993106,
 		"Restr_Probability_of_REP_r" : 0.00689427,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NJ",
@@ -4695,7 +4695,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.994564,
 		"Restr_Probability_of_REP_r" : 0.00543644,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NJ",
@@ -4713,7 +4713,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999116,
 		"Restr_Probability_of_REP_r" : 0.000883887,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NJ",
@@ -4731,7 +4731,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 1,
 		"Restr_Probability_of_REP_r" : 0.000000232902,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NJ",
@@ -4749,7 +4749,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999921,
 		"Restr_Probability_of_REP_r" : 0.0000787937,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NM",
@@ -4767,7 +4767,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.975076,
 		"Restr_Probability_of_REP_r" : 0.0249242,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NM",
@@ -4785,7 +4785,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.945855,
 		"Restr_Probability_of_REP_r" : 0.054145,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NM",
@@ -4803,7 +4803,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.989266,
 		"Restr_Probability_of_REP_r" : 0.0107342,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NV",
@@ -4821,7 +4821,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999999,
 		"Restr_Probability_of_REP_r" : 0.00000101667,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NV",
@@ -4839,7 +4839,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0302266,
 		"Restr_Probability_of_REP_r" : 0.969773,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "NV",
@@ -4857,7 +4857,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.893025,
 		"Restr_Probability_of_REP_r" : 0.106975,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NV",
@@ -4875,7 +4875,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.98652,
 		"Restr_Probability_of_REP_r" : 0.0134801,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NY",
@@ -4893,7 +4893,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.688519,
 		"Restr_Probability_of_REP_r" : 0.311481,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "NY",
@@ -4911,7 +4911,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 1,
 		"Restr_Probability_of_REP_r" : 0.0000000623251,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NY",
@@ -4929,7 +4929,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.986717,
 		"Restr_Probability_of_REP_r" : 0.0132827,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NY",
@@ -4947,7 +4947,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 1,
 		"Restr_Probability_of_REP_r" : 0.000000000258511,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NY",
@@ -4965,7 +4965,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 1,
 		"Restr_Probability_of_REP_r" : 0.0000000140539,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NY",
@@ -4983,7 +4983,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999999,
 		"Restr_Probability_of_REP_r" : 0.00000111813,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NY",
@@ -5001,7 +5001,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 1,
 		"Restr_Probability_of_REP_r" : 0.000000000593995,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NY",
@@ -5019,7 +5019,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999989,
 		"Restr_Probability_of_REP_r" : 0.0000109715,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NY",
@@ -5037,7 +5037,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999974,
 		"Restr_Probability_of_REP_r" : 0.0000261391,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NY",
@@ -5055,7 +5055,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.899778,
 		"Restr_Probability_of_REP_r" : 0.100222,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NY",
@@ -5073,7 +5073,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.872313,
 		"Restr_Probability_of_REP_r" : 0.127687,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NY",
@@ -5091,7 +5091,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.99531,
 		"Restr_Probability_of_REP_r" : 0.00469053,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "NY",
@@ -5109,7 +5109,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.954522,
 		"Restr_Probability_of_REP_r" : 0.0454775,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NY",
@@ -5127,7 +5127,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.116207,
 		"Restr_Probability_of_REP_r" : 0.883793,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "NY",
@@ -5145,7 +5145,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.83973,
 		"Restr_Probability_of_REP_r" : 0.16027,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NY",
@@ -5163,7 +5163,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.426646,
 		"Restr_Probability_of_REP_r" : 0.573354,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "NY",
@@ -5181,7 +5181,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.263689,
 		"Restr_Probability_of_REP_r" : 0.736311,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "NY",
@@ -5199,7 +5199,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.791124,
 		"Restr_Probability_of_REP_r" : 0.208876,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NY",
@@ -5217,7 +5217,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.987933,
 		"Restr_Probability_of_REP_r" : 0.0120675,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NY",
@@ -5235,7 +5235,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.253188,
 		"Restr_Probability_of_REP_r" : 0.746812,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "NY",
@@ -5253,7 +5253,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999845,
 		"Restr_Probability_of_REP_r" : 0.000155197,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NY",
@@ -5271,7 +5271,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999958,
 		"Restr_Probability_of_REP_r" : 0.0000421166,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NY",
@@ -5289,7 +5289,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999976,
 		"Restr_Probability_of_REP_r" : 0.0000237904,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NY",
@@ -5307,7 +5307,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999752,
 		"Restr_Probability_of_REP_r" : 0.00024819,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NY",
@@ -5325,7 +5325,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999967,
 		"Restr_Probability_of_REP_r" : 0.0000330034,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NY",
@@ -5343,7 +5343,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999945,
 		"Restr_Probability_of_REP_r" : 0.0000552059,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "NY",
@@ -5361,7 +5361,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999967,
 		"Restr_Probability_of_REP_r" : 0.0000334773,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "OH",
@@ -5379,7 +5379,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0389835,
 		"Restr_Probability_of_REP_r" : 0.961017,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "OH",
@@ -5397,7 +5397,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.135084,
 		"Restr_Probability_of_REP_r" : 0.864916,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "OH",
@@ -5415,7 +5415,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999971,
 		"Restr_Probability_of_REP_r" : 0.0000292964,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "OH",
@@ -5433,7 +5433,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0914762,
 		"Restr_Probability_of_REP_r" : 0.908524,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "OH",
@@ -5451,7 +5451,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.927765,
 		"Restr_Probability_of_REP_r" : 0.0722354,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "OH",
@@ -5469,7 +5469,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0350293,
 		"Restr_Probability_of_REP_r" : 0.964971,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "OH",
@@ -5487,7 +5487,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00730885,
 		"Restr_Probability_of_REP_r" : 0.992691,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "OH",
@@ -5505,7 +5505,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0632749,
 		"Restr_Probability_of_REP_r" : 0.936725,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "OH",
@@ -5523,7 +5523,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0326214,
 		"Restr_Probability_of_REP_r" : 0.967379,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "OH",
@@ -5541,7 +5541,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.996869,
 		"Restr_Probability_of_REP_r" : 0.0031307,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "OH",
@@ -5559,7 +5559,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00413779,
 		"Restr_Probability_of_REP_r" : 0.995862,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "OH",
@@ -5577,7 +5577,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0292846,
 		"Restr_Probability_of_REP_r" : 0.970715,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "OH",
@@ -5595,7 +5595,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0241316,
 		"Restr_Probability_of_REP_r" : 0.975868,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "OH",
@@ -5613,7 +5613,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0273835,
 		"Restr_Probability_of_REP_r" : 0.972616,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "OH",
@@ -5631,7 +5631,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00277291,
 		"Restr_Probability_of_REP_r" : 0.997227,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "OH",
@@ -5649,7 +5649,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.995639,
 		"Restr_Probability_of_REP_r" : 0.00436113,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "OK",
@@ -5667,7 +5667,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.188986,
 		"Restr_Probability_of_REP_r" : 0.811014,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "OK",
@@ -5685,7 +5685,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0201269,
 		"Restr_Probability_of_REP_r" : 0.979873,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "OK",
@@ -5703,7 +5703,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.000713626,
 		"Restr_Probability_of_REP_r" : 0.999286,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "OK",
@@ -5721,7 +5721,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00184119,
 		"Restr_Probability_of_REP_r" : 0.998159,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "OK",
@@ -5739,7 +5739,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.877324,
 		"Restr_Probability_of_REP_r" : 0.122676,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "OR",
@@ -5757,7 +5757,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.997723,
 		"Restr_Probability_of_REP_r" : 0.00227667,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "OR",
@@ -5775,7 +5775,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.206635,
 		"Restr_Probability_of_REP_r" : 0.793365,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "OR",
@@ -5793,7 +5793,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999074,
 		"Restr_Probability_of_REP_r" : 0.000925775,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "OR",
@@ -5811,7 +5811,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.922506,
 		"Restr_Probability_of_REP_r" : 0.0774943,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "OR",
@@ -5829,7 +5829,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.827584,
 		"Restr_Probability_of_REP_r" : 0.172416,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "PA",
@@ -5847,7 +5847,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0547045,
 		"Restr_Probability_of_REP_r" : 0.945296,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "PA",
@@ -5865,7 +5865,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0658733,
 		"Restr_Probability_of_REP_r" : 0.934127,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "PA",
@@ -5883,7 +5883,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.127671,
 		"Restr_Probability_of_REP_r" : 0.872329,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "PA",
@@ -5901,7 +5901,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.972887,
 		"Restr_Probability_of_REP_r" : 0.0271133,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "PA",
@@ -5919,7 +5919,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.104656,
 		"Restr_Probability_of_REP_r" : 0.895344,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "PA",
@@ -5937,7 +5937,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.106162,
 		"Restr_Probability_of_REP_r" : 0.893838,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "PA",
@@ -5955,7 +5955,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.057536,
 		"Restr_Probability_of_REP_r" : 0.942464,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "PA",
@@ -5973,7 +5973,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.06053,
 		"Restr_Probability_of_REP_r" : 0.93947,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "PA",
@@ -5991,7 +5991,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.884346,
 		"Restr_Probability_of_REP_r" : 0.115654,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "PA",
@@ -6009,7 +6009,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.985396,
 		"Restr_Probability_of_REP_r" : 0.0146039,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "PA",
@@ -6027,7 +6027,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.996748,
 		"Restr_Probability_of_REP_r" : 0.00325195,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "PA",
@@ -6045,7 +6045,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.961045,
 		"Restr_Probability_of_REP_r" : 0.0389555,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "PA",
@@ -6063,7 +6063,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0123058,
 		"Restr_Probability_of_REP_r" : 0.987694,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "PA",
@@ -6081,7 +6081,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.632241,
 		"Restr_Probability_of_REP_r" : 0.367759,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "PA",
@@ -6099,7 +6099,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.939766,
 		"Restr_Probability_of_REP_r" : 0.0602344,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "PA",
@@ -6117,7 +6117,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.980916,
 		"Restr_Probability_of_REP_r" : 0.0190844,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "PA",
@@ -6135,7 +6135,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.970838,
 		"Restr_Probability_of_REP_r" : 0.0291619,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "PA",
@@ -6153,7 +6153,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.201481,
 		"Restr_Probability_of_REP_r" : 0.798519,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "RI",
@@ -6171,7 +6171,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.997371,
 		"Restr_Probability_of_REP_r" : 0.00262858,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "RI",
@@ -6189,7 +6189,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.993632,
 		"Restr_Probability_of_REP_r" : 0.00636759,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "SC",
@@ -6207,7 +6207,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.829806,
 		"Restr_Probability_of_REP_r" : 0.170194,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "SC",
@@ -6225,7 +6225,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00125328,
 		"Restr_Probability_of_REP_r" : 0.998747,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "SC",
@@ -6243,7 +6243,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.000056488,
 		"Restr_Probability_of_REP_r" : 0.999943,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "SC",
@@ -6261,7 +6261,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00762335,
 		"Restr_Probability_of_REP_r" : 0.992377,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "SC",
@@ -6279,7 +6279,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.000136296,
 		"Restr_Probability_of_REP_r" : 0.999864,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "SC",
@@ -6297,7 +6297,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999857,
 		"Restr_Probability_of_REP_r" : 0.000143234,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "SC",
@@ -6315,7 +6315,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00492367,
 		"Restr_Probability_of_REP_r" : 0.995076,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "SD",
@@ -6333,7 +6333,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.206452,
 		"Restr_Probability_of_REP_r" : 0.793548,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "TN",
@@ -6351,7 +6351,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00000189978,
 		"Restr_Probability_of_REP_r" : 0.999998,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "TN",
@@ -6369,7 +6369,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00478726,
 		"Restr_Probability_of_REP_r" : 0.995213,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "TN",
@@ -6387,7 +6387,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.000133498,
 		"Restr_Probability_of_REP_r" : 0.999866,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "TN",
@@ -6405,7 +6405,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.000351754,
 		"Restr_Probability_of_REP_r" : 0.999648,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "TN",
@@ -6423,7 +6423,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.929222,
 		"Restr_Probability_of_REP_r" : 0.0707776,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "TN",
@@ -6441,7 +6441,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0000200239,
 		"Restr_Probability_of_REP_r" : 0.99998,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "TN",
@@ -6459,7 +6459,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0000445571,
 		"Restr_Probability_of_REP_r" : 0.999955,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "TN",
@@ -6477,7 +6477,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00243448,
 		"Restr_Probability_of_REP_r" : 0.997566,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "TN",
@@ -6495,7 +6495,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999996,
 		"Restr_Probability_of_REP_r" : 0.0000042182,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "TX",
@@ -6513,7 +6513,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.000137782,
 		"Restr_Probability_of_REP_r" : 0.999862,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "TX",
@@ -6531,7 +6531,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.568516,
 		"Restr_Probability_of_REP_r" : 0.431484,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "TX",
@@ -6549,7 +6549,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00235123,
 		"Restr_Probability_of_REP_r" : 0.997649,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "TX",
@@ -6567,7 +6567,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0232458,
 		"Restr_Probability_of_REP_r" : 0.976754,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "TX",
@@ -6585,7 +6585,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00375401,
 		"Restr_Probability_of_REP_r" : 0.996246,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "TX",
@@ -6603,7 +6603,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0166567,
 		"Restr_Probability_of_REP_r" : 0.983343,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "TX",
@@ -6621,7 +6621,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.99527,
 		"Restr_Probability_of_REP_r" : 0.00473038,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "TX",
@@ -6639,7 +6639,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999933,
 		"Restr_Probability_of_REP_r" : 0.0000666833,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "TX",
@@ -6657,7 +6657,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0555815,
 		"Restr_Probability_of_REP_r" : 0.944418,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "TX",
@@ -6675,7 +6675,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.998858,
 		"Restr_Probability_of_REP_r" : 0.00114196,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "TX",
@@ -6693,7 +6693,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.000988748,
 		"Restr_Probability_of_REP_r" : 0.999011,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "TX",
@@ -6711,7 +6711,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0400924,
 		"Restr_Probability_of_REP_r" : 0.959908,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "TX",
@@ -6729,7 +6729,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.978392,
 		"Restr_Probability_of_REP_r" : 0.0216083,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "TX",
@@ -6747,7 +6747,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.964303,
 		"Restr_Probability_of_REP_r" : 0.0356971,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "TX",
@@ -6765,7 +6765,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0678445,
 		"Restr_Probability_of_REP_r" : 0.932155,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "TX",
@@ -6783,7 +6783,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0657444,
 		"Restr_Probability_of_REP_r" : 0.934256,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "TX",
@@ -6801,7 +6801,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999272,
 		"Restr_Probability_of_REP_r" : 0.000727733,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "TX",
@@ -6819,7 +6819,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00108919,
 		"Restr_Probability_of_REP_r" : 0.998911,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "TX",
@@ -6837,7 +6837,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0217363,
 		"Restr_Probability_of_REP_r" : 0.978264,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "TX",
@@ -6855,7 +6855,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0112628,
 		"Restr_Probability_of_REP_r" : 0.988737,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "TX",
@@ -6873,7 +6873,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.998899,
 		"Restr_Probability_of_REP_r" : 0.00110061,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "TX",
@@ -6891,7 +6891,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.998538,
 		"Restr_Probability_of_REP_r" : 0.00146224,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "TX",
@@ -6909,7 +6909,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.02879,
 		"Restr_Probability_of_REP_r" : 0.97121,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "TX",
@@ -6927,7 +6927,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999541,
 		"Restr_Probability_of_REP_r" : 0.000458885,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "TX",
@@ -6945,7 +6945,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0765716,
 		"Restr_Probability_of_REP_r" : 0.923428,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "TX",
@@ -6963,7 +6963,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.958173,
 		"Restr_Probability_of_REP_r" : 0.0418272,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "TX",
@@ -6981,7 +6981,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999767,
 		"Restr_Probability_of_REP_r" : 0.00023337,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "TX",
@@ -6999,7 +6999,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999171,
 		"Restr_Probability_of_REP_r" : 0.00082932,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "TX",
@@ -7017,7 +7017,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.99695,
 		"Restr_Probability_of_REP_r" : 0.00305,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "TX",
@@ -7035,7 +7035,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.000869662,
 		"Restr_Probability_of_REP_r" : 0.99913,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "TX",
@@ -7053,7 +7053,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0000229017,
 		"Restr_Probability_of_REP_r" : 0.999977,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "TX",
@@ -7071,7 +7071,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00124586,
 		"Restr_Probability_of_REP_r" : 0.998754,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "TX",
@@ -7089,7 +7089,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0308534,
 		"Restr_Probability_of_REP_r" : 0.969147,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "TX",
@@ -7107,7 +7107,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.9934,
 		"Restr_Probability_of_REP_r" : 0.00660056,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "TX",
@@ -7125,7 +7125,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.000231095,
 		"Restr_Probability_of_REP_r" : 0.999769,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "TX",
@@ -7143,7 +7143,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999958,
 		"Restr_Probability_of_REP_r" : 0.0000418114,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "UT",
@@ -7161,7 +7161,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.00532151,
 		"Restr_Probability_of_REP_r" : 0.994678,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "UT",
@@ -7179,7 +7179,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.270118,
 		"Restr_Probability_of_REP_r" : 0.729882,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "UT",
@@ -7197,7 +7197,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.601941,
 		"Restr_Probability_of_REP_r" : 0.398059,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "UT",
@@ -7215,7 +7215,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.870469,
 		"Restr_Probability_of_REP_r" : 0.129531,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "VA",
@@ -7233,7 +7233,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.425496,
 		"Restr_Probability_of_REP_r" : 0.574504,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "VA",
@@ -7251,7 +7251,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.947896,
 		"Restr_Probability_of_REP_r" : 0.0521035,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "VA",
@@ -7269,7 +7269,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999994,
 		"Restr_Probability_of_REP_r" : 0.00000645284,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "VA",
@@ -7287,7 +7287,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.980312,
 		"Restr_Probability_of_REP_r" : 0.0196878,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "VA",
@@ -7305,7 +7305,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999694,
 		"Restr_Probability_of_REP_r" : 0.000306309,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "VA",
@@ -7323,7 +7323,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.977686,
 		"Restr_Probability_of_REP_r" : 0.0223141,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "VA",
@@ -7341,7 +7341,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.000510167,
 		"Restr_Probability_of_REP_r" : 0.99949,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "VA",
@@ -7359,7 +7359,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.000105568,
 		"Restr_Probability_of_REP_r" : 0.999894,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "VA",
@@ -7377,7 +7377,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.830923,
 		"Restr_Probability_of_REP_r" : 0.169077,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "VA",
@@ -7395,7 +7395,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 1,
 		"Restr_Probability_of_REP_r" : 0.000000227597,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "VA",
@@ -7413,7 +7413,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.000000666505,
 		"Restr_Probability_of_REP_r" : 0.999999,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "VT",
@@ -7431,7 +7431,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.97947,
 		"Restr_Probability_of_REP_r" : 0.0205304,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "WA",
@@ -7449,7 +7449,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.998019,
 		"Restr_Probability_of_REP_r" : 0.0019812,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "WA",
@@ -7467,7 +7467,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.998527,
 		"Restr_Probability_of_REP_r" : 0.00147286,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "WA",
@@ -7485,7 +7485,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.995656,
 		"Restr_Probability_of_REP_r" : 0.00434361,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "WA",
@@ -7503,7 +7503,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0734722,
 		"Restr_Probability_of_REP_r" : 0.926528,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "WA",
@@ -7521,7 +7521,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0611672,
 		"Restr_Probability_of_REP_r" : 0.938833,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "WA",
@@ -7539,7 +7539,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.151834,
 		"Restr_Probability_of_REP_r" : 0.848166,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "WA",
@@ -7557,7 +7557,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.987695,
 		"Restr_Probability_of_REP_r" : 0.012305,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "WA",
@@ -7575,7 +7575,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 1,
 		"Restr_Probability_of_REP_r" : 0.0000000330791,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "WA",
@@ -7593,7 +7593,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.903769,
 		"Restr_Probability_of_REP_r" : 0.0962305,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "WA",
@@ -7611,7 +7611,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.999986,
 		"Restr_Probability_of_REP_r" : 0.0000139898,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "WI",
@@ -7629,7 +7629,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0399919,
 		"Restr_Probability_of_REP_r" : 0.960008,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "WI",
@@ -7647,7 +7647,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.960264,
 		"Restr_Probability_of_REP_r" : 0.0397364,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "WI",
@@ -7665,7 +7665,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.353026,
 		"Restr_Probability_of_REP_r" : 0.646973,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "WI",
@@ -7683,7 +7683,7 @@
 		"Restr_Predicted_Party_r" : "DEM",
 		"Restr_Probability_of_DEM_r" : 0.99728,
 		"Restr_Probability_of_REP_r" : 0.00271961,
-		"Restr_Probability_of_REP_r" : "DEM"
+		"Restr_Actual_Winning_Party" : "DEM"
 	},
 	{
 		"st_abbrev" : "WI",
@@ -7701,7 +7701,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0212186,
 		"Restr_Probability_of_REP_r" : 0.978781,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "WI",
@@ -7719,7 +7719,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.138217,
 		"Restr_Probability_of_REP_r" : 0.861783,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "WI",
@@ -7737,7 +7737,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.186126,
 		"Restr_Probability_of_REP_r" : 0.813874,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "WI",
@@ -7755,7 +7755,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.102724,
 		"Restr_Probability_of_REP_r" : 0.897276,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "WV",
@@ -7773,7 +7773,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.122683,
 		"Restr_Probability_of_REP_r" : 0.877317,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "WV",
@@ -7791,7 +7791,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0149737,
 		"Restr_Probability_of_REP_r" : 0.985026,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "WV",
@@ -7809,7 +7809,7 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0607401,
 		"Restr_Probability_of_REP_r" : 0.93926,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	},
 	{
 		"st_abbrev" : "WY",
@@ -7827,6 +7827,6 @@
 		"Restr_Predicted_Party_r" : "REP",
 		"Restr_Probability_of_DEM_r" : 0.0022791,
 		"Restr_Probability_of_REP_r" : 0.997721,
-		"Restr_Probability_of_REP_r" : "REP"
+		"Restr_Actual_Winning_Party" : "REP"
 	}
 ]

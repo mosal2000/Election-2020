@@ -1,0 +1,43 @@
+
+Direction to set up database:
+
+Go to database\create_db:
+
+MySQL: run election_prediction_db.sql
+
+Jupyter Notebook: execute "House Candidate and Finance.ipynb"
+
+Jupyter Notebook: execute FIPS.ipynb
+
+Jupyter Notebook: execute 116th_US_Congress_Member.ipynb
+
+MySQL: run Populate_FEC_ID_Procedure.sql
+
+MySQL: run "Update us_congress_member FEC ID.sql"
+
+Jupyter Notebook: execute 115th_US_Congress_Member.ipynb
+
+MySQL: run "election_prediction_db2.sql"
+
+Jupyter Notebook: execute Congressional Districts.ipynb
+
+------------
+Go to: congressional_district_csv_merging_notebooks\
+
+Jupyter Notebook: execute project_III_state_csv_merging-v8.ipynb
+
+MySQL: run "election_prediction_db3.sql"
+
+------------
+Go to database\create_db:
+
+Jupyter Notebook: execute US Congress.ipynb
+
+------------
+To retrieve the current data:
+
+Go to: Election-2020\database
+
+MySQL: open get_data.sql
+
+MySQL: RandomForestColumns.sql

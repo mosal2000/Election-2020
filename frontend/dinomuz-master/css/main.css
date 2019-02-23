@@ -1973,9 +1973,9 @@ body:after {
 }
 
 .p1-gradient-bg, .primary-btn:after, .banner-area, .single-feature .icon:after, .service-area, .story-area, .single-widget .icon:after {
-  background-image: linear-gradient(to right, red , #3399ff);
-  background-image: linear-gradient(to right, red , #3399ff);
-  background-image: linear-gradient(to right, red , #3399ff);
+  background-image: linear-gradient(to bottom right, red , white,  #3399ff);
+  background-image: linear-gradient(to bottom right, red , white,  #3399ff);
+  background-image: linear-gradient(to bottom right, red , white,  #3399ff);
 }
 
 .p1-gradient-color, .single-feature .icon span {
@@ -2066,7 +2066,7 @@ body:after {
 }
 
 .banner-area .height {
-  height: 600px;
+  height: 300px;
 }
 
 .banner-area .generic-height {

@@ -139412,7 +139412,7 @@ var district_data = {
         
         return {
           weight: 0.3,
-          opacity: 1,
+          opacity: 0.4,
           color: 'white',
           fillOpacity: 0.9,
           fillColor: getColor(STATEFP_CD115FP[feature.properties.GEOID]),
@@ -139440,7 +139440,7 @@ var district_data = {
           mouseout: function(event) {
             layer = event.target;
             layer.setStyle({
-              fillOpacity: getOpacity(STATEFP_CD115FP_2[feature.properties.GEOID]),
+              fillOpacity: 0.4,
               weight: 0.3,
               color: 'white',
             });

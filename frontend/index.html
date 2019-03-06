@@ -51,30 +51,61 @@
 		<header>
 			<div class="container">
 				<div class="header-wrap">
-					<div class="header-top d-flex justify-content-between align-items-center">
-						<div class="logo">
-							<a href="houses_visual.html" style="color:black">     Visualization</a>
+					<div class="header-top d-flex justify-content-between align-items-center" style="color:black;">
+							<div class="logo" style="color:black;">
+							
 						</div>
 						<div class="main-menubar d-flex align-items-center">
-							<nav class="hide">
-								<a href="houses_visual.html">Visualization</a>
-
-							</nav>
-							<div class="menu-bar"></span></div>
+							<!--NAVBAR-->	
+							<nav class="navbar navbar-expand-lg" style = "color:black;">
+									
+									<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+									  <span class="navbar-toggler-icon"></span>
+									</button>
+									<div class="collapse navbar-collapse" id="navbarNavDropdown">
+									  <ul class="navbar-nav">
+										<li class="nav-item active">
+										  <a class="nav-link" href="index.html" style = "color:black;">Home <span class="sr-only">(current)</span></a>
+										</li>
+										<li class="nav-item">
+										  <a class="nav-link" href="about.html" style = "color:black;">About Project</a>
+										  <li class="nav-item dropdown">
+												<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style = "color:black;">
+												  Predictive Analysis
+												</a>
+												<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+												  <a class="dropdown-item" href="american_visual.html" style = "color:black;">Ancestry as American</a>
+												  <a class="dropdown-item" href="predictive_analysis.html" style = "color:black;">Predictive Analysis </a>
+												  <a class="dropdown-item" href="visual3.html" style = "color:black;">Public Transportation </a>
+										
+							
+										<li class="nav-item dropdown">
+										  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style = "color:black;">
+											Actual and Predicted Results
+										  </a>
+										  <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+											<a class="dropdown-item" href="houses_visual.html" style = "color:black;">2018 Congressional Results</a>
+											<a class="dropdown-item" href="employed_visual.html" style = "color:black;">Predicted Elections 1</a>
+											<a class="dropdown-item" href="commute_visual.html" style = "color:black;">Predicted Elections 2</a>
+										  </div>
+										</li>
+									  </ul>
+									</div>
+								  </nav>
+									  <!--END NAVBAR-->
+									  <div class="menu-bar"><span class="lnr lnr-menu"></span></div>
+									</div>
+								</div>
+							</div>
 						</div>
-					</div>
-				</div>
-			</div>
-		
-		
-		</header>
+					</header>
 			<div class="banner-area">
 				<div class="container">
 					<div class="row justify-content-center height align-items-center">
 						<div class="col-lg-8">
 							<div class="banner-content text-center">
 								<span class="text-white top text-uppercase"></span>
-								<h1 class="text-uppercase">CONGRESSIONAL  ELECTIONS  2020</h1>
+								<h1 class="text-uppercase">CONGRESSIONAL  ELECTIONS </h1>
 								<h2 style="color:black;">A project by Matthew, Jocelyn, Mosal, Aparna, Paula and Yassine </h2>
 							</div>
 						</div>
@@ -99,8 +130,8 @@
 						</div>
 						<div class="col-lg-6">
 							<div class="story-box">
-								<h6 class="text-uppercase">Predicting 2020 Congresional Race</h6>
-								<p>This project aims to predict 2020 congresional electionsl based on 2018 congresional election results and demographic data. We trained the data using a neural network with two layers in order to predict 2020 elections and display the results. Additionaly, we ran random forest to generate which fields held the most statistcal significance.
+								<h6 class="text-uppercase">Predicting Congresional Race</h6>
+								<p>This project aims to predict the congresional electional based on 2018 congresional election results and demographic data. We trained the data using a neural network with two layers in order to predict statistically significant demographics on the election and display the results. Additionaly, we ran random forest to generate which fields held the most statistcal significance.
 								</p>
 								
 							</div>
@@ -114,26 +145,26 @@
 		<br>
 	</br> 
 	<br>
-			<!-- Start Amazing Works Area -->
+			<!-- ACTUAL AND PREDICTED RESULTS -->
 		</div>
 		<div class="main-wrapper">
 			<section class="amazing-works-area">
 					<div class="row justify-content-center">
 						<div class="col-lg-8">
 							<div class="section-title text-center">
-								<h3>Predictive Analysis</h3>
+								<h3>Actual and Predicted Results</h3>
 								
 							</div>
 						</div>
 					</div>
-					<div class="active-works-carousel mt-40">
+					<div class="active-works-carousel">
 						
 						
 						<div class="item">
 							<a href="houses_visual.html"><img src="img/houses.png" alt="Occupied houses valued less than $50,000" style="width:250px;height:200px;"></a>
 							<div class="caption text-center">
 								
-								<p><center>Houses valued less than $50,000</center></p>
+								<p><center>Actual Results of 2018 Congressional Elections</center></p>
 							</div>
 						</div>
 						
@@ -143,41 +174,46 @@
 							<a href="employed_visual.html"><img src="img/elections_2018map.png" alt="Party2018" style="width:250px;height:200px;"></a>
 							<div class="caption text-center">
 								
-								<p> <center>People employed in the mining, querrying, and gas extraction industry</center></p>
+								<p> <center>Results of Raw Neural Network</center></p>
 							</div>
 						</div>
+
+				
 
 
 						<div class="item">
 							<a href="commute_visual.html"><img src="img/elections_2018map.png" alt="Party2018" style="width:250px;height:200px;"></a>
 							<div class="caption text-center">
 								
-								<p><center>People who commute using public transportation</center></p>
+								<p><center>Results of Neural Network with Restrictions</center></p>
 							</div>
 						</div>
 
+						<div class="item">
+								<a href="predictive_analysis.html"><img src="img/g6.jpg" alt="Party2018" style="width:250px;height:200px;"></a>
+								<p><center>Predictive Analysis</center></p>
+								</div>
 
+								
 						<div class="item">
 							<a href="american_visual.html"><img src="img/elections_2018map.png" alt="Party2018" style="width:250px;height:200px;"></a>
 							<div class="caption text-center">
 								
 								<p><center>Reported ancestry as American</center></p>
-							</div>
-						</div>
 
-
-
-						</div>
+				
+						
+							
 						</div>
 					</div>
 			</section>
 		</div>
 		<div class="main-wrapper">
-			<!-- End Amazing Works Area -->
+			<!-- END ACTUAL AND PREDICTED RESULTS  -->
 			
 			
 			
-			<!-- Start footer Area -->
+			<!-- Start footer Area {HAVE TO KEEP} -->
 			<footer>
 				<div class="container">
 					<div class="footer-content d-flex justify-content-between align-items-center flex-wrap">
@@ -189,7 +225,7 @@
 					</div>
 				</div>
 			</footer>
-			<!-- End footer Area -->
+			<!-- End footer Area {HAVE TO KEEP} -->
 		</div>
 
 		<script src="js/vendor/jquery-2.2.4.min.js"></script>

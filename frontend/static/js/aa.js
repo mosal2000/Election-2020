@@ -139431,7 +139431,7 @@ var district_data = {
           mouseover: function(event) {
             layer = event.target;
             layer.setStyle({
-              fillOpacity: 1.0,
+              fillOpacity: 0.3,
               weight: 3,
               color: 'black',
             });
@@ -139440,7 +139440,7 @@ var district_data = {
           mouseout: function(event) {
             layer = event.target;
             layer.setStyle({
-              fillOpacity: 0.4,
+              fillOpacity: 0.9,
               weight: 0.3,
               color: 'white',
             });
@@ -139467,7 +139467,7 @@ var district_data = {
             // // STATEFP_CD115FP2[feature.properties.GEOID] +
             "</h6> <h6>" + 
             "Public transportation: " + 
-            ((STATEFP_CD115FP[feature.properties.GEOID])/265164) + 
+            (((STATEFP_CD115FP[feature.properties.GEOID])/700000)*100).toFixed(2) + "%" + 
             "</h6>");
       }
   

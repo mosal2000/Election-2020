@@ -14,7 +14,7 @@
 	<!-- meta character set -->
 	<meta charset="UTF-8">
 	<!-- Site Title -->
-	<title>Dinomuz</title>
+	<title>Election Analysis</title>
 
 	<link href="https://fonts.googleapis.com/css?family=Poppins:300,500,600" rel="stylesheet">
 		<!--
@@ -74,9 +74,9 @@
 												  Predictive Analysis
 												</a>
 												<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-												  <a class="dropdown-item" href="american_visual.html" style = "color:black;">Ancestry as American</a>
-												  <a class="dropdown-item" href="predictive_analysis.html" style = "color:black;">Predictive Analysis </a>
-												  <a class="dropdown-item" href="visual3.html" style = "color:black;">Public Transportation </a>
+													<a class="dropdown-item" href="predictive_analysis.html" style = "color:black;">Predictive Analysis </a>
+													<a class="dropdown-item" href="american_visual.html" style = "color:black;">Ancestry as American</a>
+												    <a class="dropdown-item" href="visual3.html" style = "color:black;">Public Transportation </a>
 										
 							
 										<li class="nav-item dropdown">
@@ -85,8 +85,8 @@
 										  </a>
 										  <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 											<a class="dropdown-item" href="houses_visual.html" style = "color:black;">2018 Congressional Results</a>
-											<a class="dropdown-item" href="employed_visual.html" style = "color:black;">Predicted Elections 1</a>
-											<a class="dropdown-item" href="commute_visual.html" style = "color:black;">Predicted Elections 2</a>
+											<a class="dropdown-item" href="employed_visual.html" style = "color:black;">Raw Neural Network</a>
+											<a class="dropdown-item" href="commute_visual.html" style = "color:black;">Neural Network with Restriction</a>
 										  </div>
 										</li>
 									  </ul>
@@ -149,63 +149,82 @@
 		</div>
 		<div class="main-wrapper">
 			<section class="amazing-works-area">
-					<div class="row justify-content-center">
-						<div class="col-lg-8">
-							<div class="section-title text-center">
-								<h3>Actual and Predicted Results</h3>
-								
-							</div>
-						</div>
-					</div>
-					<div class="active-works-carousel">
-						
-						
-						<div class="item">
-							<a href="houses_visual.html"><img src="img/houses.png" alt="Occupied houses valued less than $50,000" style="width:250px;height:200px;"></a>
-							<div class="caption text-center">
-								
-								<p><center>Actual Results of 2018 Congressional Elections</center></p>
-							</div>
-						</div>
-						
-						
-						
-						<div class="item">
-							<a href="employed_visual.html"><img src="img/elections_2018map.png" alt="Party2018" style="width:250px;height:200px;"></a>
-							<div class="caption text-center">
-								
-								<p> <center>Results of Raw Neural Network</center></p>
-							</div>
-						</div>
-
-				
-
-
-						<div class="item">
-							<a href="commute_visual.html"><img src="img/elections_2018map.png" alt="Party2018" style="width:250px;height:200px;"></a>
-							<div class="caption text-center">
-								
-								<p><center>Results of Neural Network with Restrictions</center></p>
-							</div>
-						</div>
-
-						<div class="item">
-								<a href="predictive_analysis.html"><img src="img/g6.jpg" alt="Party2018" style="width:250px;height:200px;"></a>
-								<p><center>Predictive Analysis</center></p>
-								</div>
-
-								
-						<div class="item">
-							<a href="american_visual.html"><img src="img/elections_2018map.png" alt="Party2018" style="width:250px;height:200px;"></a>
-							<div class="caption text-center">
-								
-								<p><center>Reported ancestry as American</center></p>
-
-				
-						
+				<div class="row justify-content-center">
+					<div class="col-lg-8">
+						<div class="section-title text-center">
+							<h3>Actual and Predicted Results</h3>
 							
 						</div>
 					</div>
+				</div>
+
+				<div class="container-fluid">
+					<div class="box-container">
+			  
+						<div class="row">
+							<div class="col-md-6 pad top">
+							<br />
+							<div class="box-title-center">
+								<h4 class="bold_text">Actual Results of 2018 Congressional Elections</h4>
+							</div>
+							<div class="pull-left">
+								<a href="houses_visual.html"
+								><img
+									src="img/houses.png"
+									alt="Actual Results of 2018 Congressional Elections"
+									width="100%"
+								/></a>
+							</div>
+							</div>
+				
+							<div class="col-md-6 pad top">
+							<br />
+							<div class="pull-left box-title-center">
+								<h4 class="bold_text">Results of Raw Neural Network</h4>
+								<a href="employed_visual.html"
+								><img
+									src="img/people in mining.png"
+									alt="Results of Raw Neural Network"
+									width="100%"
+									height="100%"
+								/></a>
+							</div>
+							</div>
+						</div>
+				
+						<div class="row">
+							<div class="col-md-6 pad top">
+							<br />
+							<div class="pull-left box-title-center">
+								<h4 class="bold_text">Results of Neural Network with Restrictions</h4>
+								<a href="commute_visual.html"
+								><img
+									src="img/commute.png"
+									alt="Results of Neural Network with Restrictions"
+									width="100%"
+									height="100%"
+								/></a>
+							</div>
+							</div>
+				
+							<div class="col-md-6 pad top">
+							<br />
+							<div class="pull-left box-title-center">
+								<h4 class="bold_text">Reported ancestry as American</h4>
+								<a href="american_visual.html"
+								><img
+									src="img/American.png"
+									alt="Reported ancestry as America"
+									width="100%"
+									height="100%"
+								/></a>
+							</div>
+							</div>
+						</div>
+					</div>
+				</div>
+		  
+
 			</section>
 		</div>
 		<div class="main-wrapper">
@@ -217,10 +236,6 @@
 			<footer>
 				<div class="container">
 					<div class="footer-content d-flex justify-content-between align-items-center flex-wrap">
-						<div class="logo">
-							<img src="img/logo.png" alt="">
-						</div>
-						<div class="copy-right-text">Copyright &copy; 2017  |  All rights reserved to Dinomuz inc. This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a></div>
 						
 					</div>
 				</div>

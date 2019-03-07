@@ -69,7 +69,7 @@
 												Predictive Analysis
 											</a>
 											<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-												<a class="dropdown-item" href="predictive_analysis.html" style="color:black;">Predictive Analysis </a>
+												<a class="dropdown-item" href="predictive_analysis.html" style="color:black;">Tableau Visualizations </a>
 												<a class="dropdown-item" href="american_visual.html" style="color:black;">Ancestry as American</a>
 												<a class="dropdown-item" href="visual3.html" style="color:black;">Public Transportation </a>
 
@@ -102,7 +102,7 @@
 							<div class="banner-content text-center">
 								<span class="text-white top text-uppercase"></span>
 								<h1 class="text-uppercase" style="color:black;">Elections Predictive Analysis</h1>
-								<h2 class="text-uppercase" style="color:black;">Based on Random Forest</h2>
+								<!-- <h2 class="text-uppercase" style="color:black;">Based on Random Forest</h2> -->
 							</div>
 						</div>
 					</div>
@@ -115,35 +115,76 @@
 
 		<div class="container-fluid">
 			<div class="row">
-				<div class="col-md-9">
+				<div class="col-md-10">
 					<br />
-					<div class="title-header">
+					<div class="title-header bg">
+									
+						 <div  class="bg">
+						 <h4> Here we take a look at the four of the most predictive factors based on our Random Forest Analysis</h4>
+						 <hr>
+						 <p> Our analysis found that there were four primary, and 39 secondary, factors that influnced the outcome of our Random Forest machine model. They are presented one by one below for consideration.</p>
+						</div>
+					<br />
+					<div class="title-header bg">
+						<h4 class="title-header">Reported Ancestry as 'American'</h4>
+						<embed src="img/Reported Ancestry as American.pdf" type="application/pdf" width="100%" height="890px" />
+						
+						 <div  class="bg">
+						 <h6> Number of Individuals in District who reported their ancestry as ‘American’ vs. District, with color coding showing which party won that district in 2018  -  Sources: US Census Bureau & FEC</h6>
+						 <hr>
+						 <p> Our analysis of the random forest procedure results found that this self-reported identifier was extremely closely aligned with districts that voted Republican in the 2018 Congressional Election. This may be a result of nationalistic tendencies among this group which closely track with the messaging of that party.</p>
+						</div>
+
+						<style type="text/css">
+							.bg {
+    						background: white;
+    						padding: 9px 12px;
+										}
+							</style>
+					</div>
+
+					<br />
+
+					<div class="title-header bg">
+						<h4 class="title-header">Number of People Who Commute Using Public Transportaion</h4>
+						<embed src="img/Number of people in each district who commute to work using public transportation excluding taxi cabs.pdf"
+						 type="application/pdf" width="100%" height="890px" />
+
+						 <div  class="bg">
+						 <h6> Number of Individuals in District who reported that they commute to work using public transportation vs. District, with color coding showing which party won that district in 2018  -  Sources: US Census Bureau & FEC</h6>
+						 <hr>
+						 <p> Our random forest analysis found that this factor, the method of commuting was a large predictor in determining voting outcome in the 2018 Congressional Election, in this case it strongly predicted Democratic victories. We suggest that this is essentially a proxy for urban areas, which historically are strongly diverse and lean Democratic.</p>
+						</div>
+
+
+					<br />
+
+					<div class="title-header bg">
+						<h4 class="title-header">Employed in Mining, Quarrying, and Oil/Gas Extration</h4>
+						<embed src="img/Number of people employed in the mining, quarrying and oil gas extraction industry in that district.pdf"
+						 type="application/pdf" width="100%" height="890px" />
+						 <div  class="bg">
+						 <h6> Number of Employees in District employed in Mining, Quarrying, and Oil/Gas Extraction vs. District, with color coding showing which party won that district in 2018  -  Sources: US Census Bureau & FEC</h6>
+						 <hr>
+						 <p> Our random forest analysis also identified this particular employment sector as important in determining the outcome of the 2018 Congressional Election. We speculate that the Republican party did well with voters in these districts partly because of this employment sectors representation in the constituency, however there are some obvious outliers that do not fit this trend.</p>
+						</div>
+					</div>
+
+					<br />
+
+					<div class="title-header bg">
 						<h4>Number of Houses valued less than $50,000</h4>
 						<embed src="img/Number of occupied houses in the district valued less than $50,000.pdf" type="application/pdf"
-						 width="100%" height="600px" />
+						 width="100%" height="890px" />
+						 <div  class="bg">
+						 <h6> Number of Households in District valued less than $50,00 vs. District, with color coding showing which party won that district in 2018  -  Sources: US Census Bureau & FEC</h6>
+						 <hr>
+						 <p> This was the final strongly correlated outcome of our random forest analysis procedure. It, like mining and ancestry strongly correlated with Republican victories.</p>
+						</div>
 					</div>
 
-					<br />
-					<div class="title-header">
-						<h4 class="title-header">Employed in Mining, Quarrying, and Oil Gas Extration</h4>
-						<embed src="img/Number of people employed in the mining, quarrying and oil gas extraction industry in that district.pdf"
-						 type="application/pdf" width="100%" height="600px" />
 
-					</div>
-
-					<br />
-
-					<div class="title-header">
-						<h4 class="title-header">Reported Ancestry as American</h4>
-						<embed src="img/Reported Ancestry as American.pdf" type="application/pdf" width="100%" height="600px" />
-					</div>
-
-					<br />
-
-					<div class="title-header">
-						<h4 class="title-header">People Who Commute Using Public Transportaion</h4>
-						<embed src="img/Number of people in each district who commute to work using public transportation excluding taxi cabs.pdf"
-						 type="application/pdf" width="100%" height="600px" />
+					
 					</div>
 				</div>
 			</div>

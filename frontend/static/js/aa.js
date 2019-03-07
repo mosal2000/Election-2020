@@ -139364,16 +139364,16 @@ var district_data = {
   
   function complete(district_data) { 
     function getColor(d) {
-      return d/265164> 0.1 ? '#0000ff' :
-        d/265164 > 0.03 ? '#ac0dcd' :
-        d/265164 > 0.025 ? '#dd47a2' :
-        d/265164 > 0.02 ? '#f77985' :
-        d/265164 > 0.015 ? '#ffaa80' :
-        d/265164 > 0.01 ? '#ffd79e' :
-        d/265164 > 0.005 ? '#ffdd9e' :
-        d/265164 > 0.002 ? '#ffe89e' :
-        d/265164 > 0.001 ? '#ffffe0' :
-        '#000000';
+      return d/265164> 0.1 ? '#00008b' :
+        d/265164 > 0.03 ? '#2812b3' :
+        d/265164 > 0.025 ? '#4d2dcb' :
+        d/265164 > 0.02 ? '#6d48db' :
+        d/265164 > 0.015 ? '#8b65e6' :
+        d/265164 > 0.01 ? '#a582ed' :
+        d/265164 > 0.005 ? '#bda1f1' :
+        d/265164 > 0.002 ? '#d4bff1' :
+        d/265164 > 0.001 ? '#e9deee' :
+        '#ffffe0';
     }
   
     // coordinate GEOID and party affiliation
@@ -139412,8 +139412,8 @@ var district_data = {
         
         return {
           weight: 0.3,
-          opacity: 0.4,
-          color: 'white',
+          opacity: 1,
+          color: 'black',
           fillOpacity: 0.9,
           fillColor: getColor(STATEFP_CD115FP[feature.properties.GEOID]),
         };
@@ -139442,7 +139442,7 @@ var district_data = {
             layer.setStyle({
               fillOpacity: 0.9,
               weight: 0.3,
-              color: 'white',
+              color: 'black',
             });
           },
           // When a feature (neighborhood) is clicked, it is enlarged to fit the screen
@@ -139457,7 +139457,7 @@ var district_data = {
         });
         // Giving each feature a pop-up with information pertinent to it
         layer.bindPopup(        
-            "<h5>" + 
+            "<h5> State: " + 
             (STATEFP_CD115FP[feature.properties.STATEFP]) +
             "</h5> <hr> <h6>" + 
             "District: " +
@@ -139465,7 +139465,7 @@ var district_data = {
             "</h6> <h6>" + 
             // "Winning Party: " + 
             // // STATEFP_CD115FP2[feature.properties.GEOID] +
-            "</h6> <h6>" + 
+            "</h6> <hr> <h6>" + 
             "Public transportation: " + 
             (((STATEFP_CD115FP[feature.properties.GEOID])/700000)*100).toFixed(2) + "%" + 
             "</h6>");

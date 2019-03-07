@@ -68,10 +68,10 @@ function complete(district_data) {
     var shape_file_Layer1 = new L.geoJson(shape_files, {
       style: function(feature) {
         return {
-          weight: 1,
+          weight: 0.6,
           opacity: 1,
-          color: 'white',
-          fillOpacity: 0.7,
+          color: 'black',
+          fillOpacity: 0.8,
           fillColor: getColor(STATEFP_CD115FP[feature.properties.GEOID])
         };
       },
@@ -86,14 +86,14 @@ function complete(district_data) {
           mouseover: function(event) {
             layer = event.target;
             layer.setStyle({
-              fillOpacity: 0.9
+              fillOpacity: 1
             });
           },
           // When the cursor no longer hovers over a map feature - when the mouseout event occurs - the feature's opacity reverts back to 50%
           mouseout: function(event) {
             layer = event.target;
             layer.setStyle({
-              fillOpacity: 0.7
+              fillOpacity: 0.8
             });
           }
           // When a feature (neighborhood) is clicked, it is enlarged to fit the screen

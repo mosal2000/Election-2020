@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="zxx" class="no-js">
+
 <head>
 	<!-- Mobile Specific Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -17,276 +18,246 @@
 	<title>Election Analysis</title>
 
 	<link href="https://fonts.googleapis.com/css?family=Poppins:300,500,600" rel="stylesheet">
-		<!--
+	<!--
 		CSS
 		============================================= -->
-		<link rel="stylesheet" href="css/linearicons.css">
-		<link rel="stylesheet" href="css/owl.carousel.css">
-		<link rel="stylesheet" href="css/font-awesome.min.css">
-		<link rel="stylesheet" href="css/nice-select.css">
-		<link rel="stylesheet" href="css/magnific-popup.css">
-		<link rel="stylesheet" href="css/bootstrap.css">
-		<link rel="stylesheet" href="css/main.css">
+	<link rel="stylesheet" href="css/linearicons.css">
+	<link rel="stylesheet" href="css/owl.carousel.css">
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+	<link rel="stylesheet" href="css/nice-select.css">
+	<link rel="stylesheet" href="css/magnific-popup.css">
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<link rel="stylesheet" href="css/main.css">
 
 	<!-- Leaflet JS & CSS -->
-	<link
-	rel="stylesheet"
-	href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css"
-	integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
-	crossorigin=""
-	/>
-	<script
-	src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"
-	integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
-	crossorigin=""
-	></script>
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css" integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
+	 crossorigin="" />
+	<script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js" integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
+	 crossorigin=""></script>
 
 	<!-- d3 JavaScript -->
 	<script src="https://d3js.org/d3.v4.min.js"></script>
 
-	
+
 </head>
+
 <body>
 	<div class="main-wrapper-first">
 		<header>
 			<div class="container">
 				<div class="header-wrap">
 					<div class="header-top d-flex justify-content-between align-items-center" style="color:black;">
-							<div class="logo" style="color:black;">
-							
+						<div class="logo" style="color:black;">
+
 						</div>
 						<div class="main-menubar d-flex align-items-center">
-							<!--NAVBAR-->	
-							<nav class="navbar navbar-expand-lg" style = "color:black;">
-									
-									<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-									  <span class="navbar-toggler-icon"></span>
-									</button>
-									<div class="collapse navbar-collapse" id="navbarNavDropdown">
-									  <ul class="navbar-nav">
+							<!--NAVBAR-->
+							<nav class="navbar navbar-expand-lg" style="color:black;">
+
+								<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
+								 aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+									<span class="navbar-toggler-icon"></span>
+								</button>
+								<div class="collapse navbar-collapse" id="navbarNavDropdown">
+									<ul class="navbar-nav">
 										<li class="nav-item active">
-										  <a class="nav-link" href="index.html" style = "color:black;">Home <span class="sr-only">(current)</span></a>
+											<a class="nav-link" href="index.html" style="color:black;">Home <span class="sr-only">(current)</span></a>
 										</li>
 										<li class="nav-item">
-										  <a class="nav-link" href="about.html" style = "color:black;">About Project</a>
-										  <li class="nav-item dropdown">
-												<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style = "color:black;">
-												  Predictive Analysis
-												</a>
-												<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-													<a class="dropdown-item" href="predictive_analysis.html" style = "color:black;">Predictive Analysis </a>
-													<a class="dropdown-item" href="american_visual.html" style = "color:black;">Ancestry as American</a>
-												    <a class="dropdown-item" href="visual3.html" style = "color:black;">Public Transportation </a>
-										
-							
+											<a class="nav-link" href="about.html" style="color:black;">About Project</a>
 										<li class="nav-item dropdown">
-										  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style = "color:black;">
-											Actual and Predicted Results
-										  </a>
-										  <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-											<a class="dropdown-item" href="houses_visual.html" style = "color:black;">2018 Congressional Results</a>
-											<a class="dropdown-item" href="employed_visual.html" style = "color:black;">Raw Neural Network</a>
-											<a class="dropdown-item" href="commute_visual.html" style = "color:black;">Neural Network with Restriction</a>
-										  </div>
+											<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown"
+											 aria-haspopup="true" aria-expanded="false" style="color:black;">
+												Predictive Analysis
+											</a>
+											<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+												<a class="dropdown-item" href="predictive_analysis.html" style="color:black;">Predictive Analysis </a>
+												<a class="dropdown-item" href="american_visual.html" style="color:black;">Ancestry as American</a>
+												<a class="dropdown-item" href="visual3.html" style="color:black;">Public Transportation </a>
+
+
+										<li class="nav-item dropdown">
+											<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown"
+											 aria-haspopup="true" aria-expanded="false" style="color:black;">
+												Actual and Predicted Results
+											</a>
+											<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+												<a class="dropdown-item" href="houses_visual.html" style="color:black;">2018 Congressional Results</a>
+												<a class="dropdown-item" href="employed_visual.html" style="color:black;">Raw Neural Network</a>
+												<a class="dropdown-item" href="commute_visual.html" style="color:black;">Neural Network with Restriction</a>
+											</div>
 										</li>
-									  </ul>
-									</div>
-								  </nav>
-									  <!--END NAVBAR-->
-									  <div class="menu-bar"><span class="lnr lnr-menu"></span></div>
-									</div>
+									</ul>
 								</div>
-							</div>
+							</nav>
+							<!--END NAVBAR-->
+							<div class="menu-bar"><span class="lnr lnr-menu"></span></div>
 						</div>
-					</header>
+					</div>
+				</div>
+			</div>
+			<br />
 			<div class="banner-area">
 				<div class="container">
 					<div class="row justify-content-center height align-items-center">
 						<div class="col-lg-8">
 							<div class="banner-content text-center">
 								<span class="text-white top text-uppercase"></span>
-								<h1 class="text-uppercase">CONGRESSIONAL  ELECTIONS </h1>
-								<h2 style="color:black;">A project by Matthew, Jocelyn, Mosal, Aparna, Paula and Yassine </h2>
+								<h1 class="text-uppercase">CONGRESSIONAL ELECTIONS PREDICTIVE ANALYSIS</h1>
+								<h4 style="color:black;">A project by Matthew, Jocelyn, Mosal, Aparna, Paula and Yassine </h4>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
+		</header>
+		<br />
+		<br />
+		<br />
+		<section class="story-area">
+			<div class="container">
+				<div class="row align-items-center">
+					<div class="col-lg-3">
+						<div class="story-title">
+							<h3 style="color:black;">Congresional Predictions</h3>
 
+						</div>
+					</div>
+					<div class="col-lg-6">
+						<div class="story-box">
+							<h6 class="text-uppercase">Predicting Congresional Race</h6>
+							<p>This project aims to predict the congresional electional based on 2018 congresional election results and
+								demographic data. We trained the data using a neural network with two layers in order to predict statistically
+								significant demographics on the election and display the results. Additionaly, we ran random forest to generate
+								which fields held the most statistcal significance.
+							</p>
 
-			<br> 
-		</br> 
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End Story Area -->
 		<br>
-	</br> 
-	<br>
-			<section class="story-area">
-				<div class="container">
-					<div class="row align-items-center">
-						<div class="col-lg-3">
-							<div class="story-title">
-								<h3 style="color:black;">Congresional Predictions</h3>
-								
-							</div>
-						</div>
-						<div class="col-lg-6">
-							<div class="story-box">
-								<h6 class="text-uppercase">Predicting Congresional Race</h6>
-								<p>This project aims to predict the congresional electional based on 2018 congresional election results and demographic data. We trained the data using a neural network with two layers in order to predict statistically significant demographics on the election and display the results. Additionaly, we ran random forest to generate which fields held the most statistcal significance.
-								</p>
-								
-							</div>
-						</div>
-					</div>
-				</div>
-			</section>
-			<!-- End Story Area -->
-			<br> 
-		</br> 
+		</br>
 		<br>
-	</br> 
-	<br>
-			<!-- ACTUAL AND PREDICTED RESULTS -->
-		</div>
-		<div class="main-wrapper">
-			<section class="amazing-works-area">
-				<div class="row justify-content-center">
-					<div class="col-lg-8">
-						<div class="section-title text-center">
-							<h3>Actual and Predicted Results</h3>
-							
-						</div>
+		</br>
+		<br>
+		<!-- ACTUAL AND PREDICTED RESULTS -->
+	</div>
+	<div class="main-wrapper">
+		<section class="amazing-works-area">
+			<div class="row justify-content-center">
+				<div class="col-lg-8">
+					<div class="section-title text-center">
+						<h3>Actual and Predicted Results</h3>
+
 					</div>
 				</div>
+			</div>
 
-				<div class="container-fluid">
-					<div class="box-container">
-			  
-						<div class="row">
-							<div class="col-md-6 pad top">
-								<br />
-								<div class="box-title-center">
-									<h4 class="bold_text">Actual Results of 2018 Congressional Elections</h4>
-								</div>
-								<div class="pull-left">
-									<a href="houses_visual.html"
-									><img
-										src="img/houses.png"
-										alt="Actual Results of 2018 Congressional Elections"
-										width="100%"
-									/></a>
-								</div>
-								</div>
-					
-								<div class="col-md-6 pad top">
-								<br />
-								<div class="pull-left box-title-center">
-									<h4 class="bold_text">Results of Raw Neural Network</h4>
-									<a href="employed_visual.html"
-									><img
-										src="img/people in mining.png"
-										alt="Results of Raw Neural Network"
-										width="100%"
-										height="100%"
-									/></a>
-								</div>
+			<div class="container-fluid">
+				<div class="box-container">
+
+					<div class="row">
+						<div class="col-md-6 pad top">
+							<br />
+							<div class="box-title-center">
+								<h4 class="bold_text">Actual Results of 2018 Congressional Elections</h4>
 							</div>
-						</div>
-				
-						<div class="row">
-							<div class="col-md-6 pad top">
-								<br />
-								<div class="pull-left box-title-center">
-									<h4 class="bold_text">Results of Neural Network with Restrictions</h4>
-									<a href="commute_visual.html"
-									><img
-										src="img/commute.png"
-										alt="Results of Neural Network with Restrictions"
-										width="100%"
-										height="100%"
-									/></a>
-								</div>
-								</div>
-					
-								<div class="col-md-6 pad top">
-								<br />
-								<div class="pull-left box-title-center">
-									<h4 class="bold_text">Reported ancestry as American</h4>
-									<a href="american_visual.html"
-									><img
-										src="img/American.png"
-										alt="Reported ancestry as America"
-										width="100%"
-										height="100%"
-									/></a>
-								</div>
+							<div class="pull-left">
+								<a href="houses_visual.html"><img src="img/houses.png" alt="Actual Results of 2018 Congressional Elections"
+									 width="100%" /></a>
 							</div>
 						</div>
 
-						<div class="row">
-								<div class="col-md-6 pad top">
-									<br />
-									<div class="pull-left box-title-center">
-										<h4 class="bold_text">Using Public Transportation</h4>
-										<a href="visual3.html"
-										><img
-											src="img/comute_to_work.png"
-											alt="Results of Neural Network with Restrictions"
-											width="100%"
-											height="100%"
-										/></a>
-									</div>
-									</div>
-						
-									<div class="col-md-6 pad top">
-									<br />
-									<div class="pull-left box-title-center">
-										<h4 class="bold_text">Tableau Visualizations</h4>
-										<a href="predictive_analysis.html"
-										><img
-											src="img/American_tab.png"
-											alt="Reported ancestry as America"
-											width="100%"
-											height="100%"
-										/></a>
-									</div>
-								</div>
+						<div class="col-md-6 pad top">
+							<br />
+							<div class="pull-left box-title-center">
+								<h4 class="bold_text">Results of Raw Neural Network</h4>
+								<a href="employed_visual.html"><img src="img/people in mining.png" alt="Results of Raw Neural Network" width="100%"
+									 height="100%" /></a>
 							</div>
-	
+						</div>
 					</div>
-				</div>
-		  
 
-			</section>
-		</div>
-		<div class="main-wrapper">
-			<!-- END ACTUAL AND PREDICTED RESULTS  -->
-			
-			
-			
-			<!-- Start footer Area {HAVE TO KEEP} -->
-			<footer>
-				<div class="container">
-					<div class="footer-content d-flex justify-content-between align-items-center flex-wrap">
-						
+					<div class="row">
+						<div class="col-md-6 pad top">
+							<br />
+							<div class="pull-left box-title-center">
+								<h4 class="bold_text">Results of Neural Network with Restrictions</h4>
+								<a href="commute_visual.html"><img src="img/commute.png" alt="Results of Neural Network with Restrictions"
+									 width="100%" height="100%" /></a>
+							</div>
+						</div>
+
+						<div class="col-md-6 pad top">
+							<br />
+							<div class="pull-left box-title-center">
+								<h4 class="bold_text">Reported Ancestry as American</h4>
+								<a href="american_visual.html"><img src="img/American.png" alt="Reported ancestry as America" width="100%"
+									 height="100%" /></a>
+							</div>
+						</div>
 					</div>
+
+					<div class="row">
+						<div class="col-md-6 pad top">
+							<br />
+							<div class="pull-left box-title-center">
+								<h4 class="bold_text">Reported Using Public Transportation</h4>
+								<a href="visual3.html"><img src="img/comute_to_work.png" alt="Reported Using Public Transportation" width="100%"
+									 height="100%" /></a>
+							</div>
+						</div>
+
+						<div class="col-md-6 pad top">
+							<br />
+							<div class="pull-left box-title-center">
+								<h4 class="bold_text">Tableau Visualizations</h4>
+								<a href="predictive_analysis.html"><img src="img/American_tab.png" alt="Reported ancestry as America" width="100%"
+									 height="100%" /></a>
+							</div>
+						</div>
+					</div>
+
 				</div>
-			</footer>
-			<!-- End footer Area {HAVE TO KEEP} -->
-		</div>
+			</div>
 
-		<script src="js/vendor/jquery-2.2.4.min.js"></script>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
-		<script src="js/vendor/bootstrap.min.js"></script>
-		<script src="js/jquery.ajaxchimp.min.js"></script>
-		<script src="js/owl.carousel.min.js"></script>
-		<script src="js/jquery.nice-select.min.js"></script>
-		<script src="js/jquery.magnific-popup.min.js"></script>
-		<script src="js/main.js"></script>
 
-		<script type="text/javascript" src="static/js/config.js"></script>
-		<!-- JS  -->
-	
-		<script type="text/javascript" src="static/js/logic_map1.js"></script> 
-		<script type="text/javascript" src="static/js/logic.js"></script>
-	</body>
+		</section>
+	</div>
+	<div class="main-wrapper">
+		<!-- END ACTUAL AND PREDICTED RESULTS  -->
+
+
+
+		<!-- Start footer Area {HAVE TO KEEP} -->
+		<footer>
+			<div class="container">
+				<div class="footer-content d-flex justify-content-between align-items-center flex-wrap">
+
+				</div>
+			</div>
+		</footer>
+		<!-- End footer Area {HAVE TO KEEP} -->
+	</div>
+
+	<script src="js/vendor/jquery-2.2.4.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4"
+	 crossorigin="anonymous"></script>
+	<script src="js/vendor/bootstrap.min.js"></script>
+	<script src="js/jquery.ajaxchimp.min.js"></script>
+	<script src="js/owl.carousel.min.js"></script>
+	<script src="js/jquery.nice-select.min.js"></script>
+	<script src="js/jquery.magnific-popup.min.js"></script>
+	<script src="js/main.js"></script>
+
+	<script type="text/javascript" src="static/js/config.js"></script>
+	<!-- JS  -->
+
+	<script type="text/javascript" src="static/js/logic_map1.js"></script>
+	<script type="text/javascript" src="static/js/logic.js"></script>
+</body>
+
 </html>
